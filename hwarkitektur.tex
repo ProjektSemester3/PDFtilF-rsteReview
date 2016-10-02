@@ -1,6 +1,6 @@
 \chapter{Hardware Arkitektur}
 
-\subsection{Block Definition Diagram}
+\section{Block Definition Diagram}
 
 \begin{figure}[H]
 	\centering
@@ -27,3 +27,25 @@ Her følger beskrivelser af de enkelte blokke på vores BDD, se side \pageref{BD
 Motor Valg er ikke 100\% fastlagt, hvorfor det her i BDD modelleres med stepper motors, og portene er derfor heller ikke 100\% korrekte da dette afhænger af motorstyringen.
 
 Sensor typer og antal ligger kun delvist fast, der vil være minimum 2 afstandssensorer af en art, hvorfor BDD er lavet mod 2 sensorer, det bliver enten lys baserede eller lydbaserede, der vil give et analog output signal i form af en spænding der afhænger af afstanden.
+
+\section{Internal Block Diagram}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{IBDiagram}
+	\caption{IBD for WinePrep}
+	\label{IBD}
+\end{figure}
+
+\subsection{Signal Beskrivelser}
+
+\begin{tabular}{>{\bfseries}p{50pt}  p{110pt}  p{170pt}}
+	Signal Type & \textbf{Porte} & \textbf{Beskrivelse} \\
+	Digital & MISO, MOSI, SS, MotorXDirection, MotorYDirection, MotorZDirection, MotorSDirection, MotorPDirection & 0-5V firkant signal \\
+	Analog & Range, Sensor1, Sensor2 & Analog Spænding mellem 0-5V \\
+	Clock & SCLK & Konstant firkantsignal på 0-5V med 50\% dutycycle og fast frekvens \\
+	Touch & Touchscreen & kraftpåvirkning af skærmen \\
+	Light & Touchscreen & Lys i varierende farver i det synlige spektrum \\
+	PWM & Step, MotorXstep, MotorYstep, MotorZstep, MotorSstep, MotorPstep & 0-5V firkant med varierende dutycycle. \\
+	SPI & SPI & Serial Peripheral Interface Bus industri standard \\
+\end{tabular}
