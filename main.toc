@@ -1,0 +1,13 @@
+\select@language {danish}
+\contentsline {chapter}{Indhold}{i}
+\contentsline {chapter}{\chapternumberline {1}Indledning}{1}
+\contentsline {section}{\numberline {1.1}projektformulering}{1}
+\contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{4}
+\contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{4}
+\contentsline {section}{\numberline {2.2}Use-Cases}{4}
+\contentsline {subsection}{Use-case Diagram}{4}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{4}
+\contentsline {subsection}{Use-case 2: \IeC {\r A}bn Vin p\IeC {\r a} bestemt tidspunkt}{5}
+\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{5}
+\contentsline {chapter}{\chapternumberline {3}Hardware Arkitektur}{7}
+\contentsline {chapter}{\chapternumberline {4}Software Arkitektur}{9}

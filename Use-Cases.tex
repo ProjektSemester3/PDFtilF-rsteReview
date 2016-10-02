@@ -1,0 +1,37 @@
+\section{Use-Cases}
+
+\subsection{Use-case Diagram}
+
+\subsection{Use-case 1: Åbn Vin}
+
+\rowcolors{1}{white}{lightgray}
+
+\begin{tabular}{>{\bfseries}p{100pt} p{300pt}}
+	
+	Navn & \bfseries{UC 1: Åbn Vinflaske} \\
+	Mål & At åbne vinflasken og dermed tillade brugeren adgang til vinen\\
+	Initiering & test 2 \\
+	Aktører & Primær: Bruger \\
+	Antal Samtidige forekomster & 1 \\
+	Prækondition & Vinflasken er anbragt i systemet og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet. \\
+	Postkondition & Vinflasken er åbnet \\
+	Hovedscenarie & \begin{enumerate}
+		\item System detektere vinflaskens type og position
+		\subitem [Ext. 1: System registrerer ugyldig type af vinflaske]
+		\subitem [Ext. 2: System kan ikke registrere en vinflaske] 
+		\item System låser vinflasken i dens position
+		\item System fjerne prop fra vinflasken
+		\item System frigiver vinflasken
+		\item System meddeler brugeren om at vinflasken er åbent og klar til brug.
+		\item System dispenserer prop.
+	\end{enumerate} \\
+	Udvidelser/Undtagelser & 
+	\begin{enumerate}{}{}
+	\item[Ext.1] \bfseries{ System registrerer ugyldig type af vinflaske} 
+	
+		\subitem[1.1] System meddeler brugeren om at typen af vinflaske er ugyldig
+		\item[E2.2] UC
+	\end{enumerate}\\
+\end{tabular}
+
+\subsection{Use-case 2: Åbn Vin på bestemt tidspunkt}
