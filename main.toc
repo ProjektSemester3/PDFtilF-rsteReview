@@ -4,10 +4,12 @@
 \contentsline {section}{\numberline {1.1}projektformulering}{1}
 \contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{3}
 \contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{3}
-\contentsline {section}{\numberline {2.2}Use-Cases}{3}
-\contentsline {subsection}{Use-case Diagram}{3}
-\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{4}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{5}
-\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{6}
-\contentsline {chapter}{\chapternumberline {3}Hardware Arkitektur}{7}
-\contentsline {chapter}{\chapternumberline {4}Software Arkitektur}{9}
+\contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{3}
+\contentsline {paragraph}{Bruger:}{3}
+\contentsline {section}{\numberline {2.2}Use-Cases}{4}
+\contentsline {subsection}{Use-case Diagram}{4}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{5}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{6}
+\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{7}
+\contentsline {chapter}{\chapternumberline {3}Hardware Arkitektur}{9}
+\contentsline {chapter}{\chapternumberline {4}Software Arkitektur}{11}
