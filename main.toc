@@ -14,19 +14,20 @@
 \contentsline {subsection}{Brugervenlighed}{6}
 \contentsline {subsection}{Ydelse}{6}
 \contentsline {subsection}{Vedligeholdelse}{6}
-\contentsline {chapter}{\chapternumberline {3}System Arkitektur}{7}
-\contentsline {section}{\numberline {3.1}System Sekvens Diagrammer}{7}
-\contentsline {subsection}{System Sekvens Diagram for use-case 1}{7}
-\contentsline {subsection}{System Sekvens Diagram for use-case 2}{8}
-\contentsline {chapter}{\chapternumberline {4}Hardware Arkitektur}{9}
-\contentsline {section}{\numberline {4.1}Block Definition Diagram}{9}
-\contentsline {subsubsection}{Blok beskrivelser}{9}
-\contentsline {paragraph}{WinePrep}{9}
-\contentsline {paragraph}{Embedded Linux Platform}{9}
-\contentsline {paragraph}{PSoC 5 Platform}{10}
-\contentsline {paragraph}{Motor}{10}
-\contentsline {paragraph}{Sensor}{10}
-\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{10}
-\contentsline {section}{\numberline {4.2}Internal Block Diagram}{11}
-\contentsline {subsection}{Signal Beskrivelser}{12}
-\contentsline {chapter}{\chapternumberline {5}Software Arkitektur}{13}
+\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{7}
+\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{8}
+\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{8}
+\contentsline {subsection}{System Sekvens Diagram for use-case 1}{8}
+\contentsline {subsection}{System Sekvens Diagram for use-case 2}{9}
+\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{10}
+\contentsline {section}{\numberline {5.1}Block Definition Diagram}{10}
+\contentsline {subsubsection}{Blok beskrivelser}{10}
+\contentsline {paragraph}{WinePrep}{10}
+\contentsline {paragraph}{Embedded Linux Platform}{10}
+\contentsline {paragraph}{PSoC 5 Platform}{11}
+\contentsline {paragraph}{Motor}{11}
+\contentsline {paragraph}{Sensor}{11}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{11}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{12}
+\contentsline {subsection}{Signal Beskrivelser}{13}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{14}
