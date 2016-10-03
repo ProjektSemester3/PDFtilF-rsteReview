@@ -1,29 +1,133 @@
 \chapter{Accepttest Specifikation}
+\section{Test af Usecase 1}
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC1 Hovedscenarie}
+	\label{ATUC1:Hovedscenarie}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{white}	
+		\textbf{Use case under test} & U1: Åbn Vinflaske \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
+		\textbf{Prækondition} &
+		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden
+		er vinflasken uåbnet og forseglingen er fjernet \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på Åbn nu på
+		brugergrænsefladen & Vinflasken åbnes af
+		systemet, og bruger
+		meddeles via
+		brugergrænsefladen
+		om, at vinen er åbnet &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
 
 \begin{table}[H]
-	
+	\centering
+	\caption{Accepttestspecifikation UC1 Ext. 1: System registrerer ugyldig type af vinflaske}
+	\label{ATUC1:Ext1}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & U1: Åbn Vinflaske \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Ext. 1: System registrerer ugyldig type af vinflaske \\\rowcolor{lightgray}	
+		\textbf{Prækondition} &
+		Vinflaske er anbragt i systemet og systemet er klar til brug \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på Åbn nu på
+		brugergrænsefladen & System meddeler bruger
+		via brugergrænsefladen
+		at vinflasken er af
+		ugyldig type, og bruger
+		bedes fjerne genstand
+		fra systemet &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC1 Ext. 2: System kan ikke registrere vinflaske}
+	\label{ATUC1:Ext2}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{white}	
+		\textbf{Use case under test} & U1: Åbn Vinflaske \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Ext. 2: System kan ikke registrere vinflaske \\\rowcolor{white}	
+		\textbf{Prækondition} &
+		Systemet er klar til brug \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på Åbn nu på
+		brugergrænsefladen & System meddeler bruger
+		via brugergrænsefladen
+		at ingen vinflaske kan
+		registreres &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\section{Test af use case 2}
+
+\begin{table}[H]
 	\centering
 	\caption{Accepttestspecifikation UC2 Hovedscenarie}
 	\label{ATUC2:Hovedscenarie}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-\begin{tabular}{| p{80pt}  p{320pt} |}\hline
-\rowcolor{lightgray}	
-\textbf{Use case under test} & UC2: Planlæg Åbning \\
-\rowcolor{white}
-\textbf{Scenarie} & Hovedscenarie \\\rowcolor{lightgray}	
-\textbf{Prækondition} &
-Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet \\
-	\hline
-\end{tabular}
-\begin{tabular}{ | p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt} |}
-	\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-	1 & Tryk på \emph{Planlæg åbning} på brugergrænsefladen & Undermenuen \emph{Planlæg åbning} vises på brugergrænsefladen &  &  \\
-	2 & Indstil tid til 4 timer og 30 minutter ved at trykke på piltasterne & Den indstilelde tid vises til 4 timer og 30 minutter &  &  \\
-	3 & Tryk på \emph{Bekræft} & Hovedmenuen vises og den indstillede tid vises i \emph{Aktuel info} på brugergrænsefladen &  &  \\
-	4 & Vent 4 timer og 30 minutter & System meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
-	\hline
-\end{tabular}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & UC2: Planlæg Åbning \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{lightgray}	
+		\textbf{Prækondition} &
+		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på \emph{Planlæg åbning} på brugergrænsefladen & Undermenuen \emph{Planlæg åbning} vises på brugergrænsefladen &  &  \\
+		2 & Indstil tid til 4 timer og 30 minutter ved at trykke på piltasterne & Den indstilelde tid vises til 4 timer og 30 minutter &  &  \\
+		3 & Tryk på \emph{Bekræft} & Hovedmenuen vises og den indstillede tid vises i \emph{Aktuel info} på brugergrænsefladen &  &  \\
+		4 & Vent 4 timer og 30 minutter & System meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
+		\hline
+	\end{tabular}
 \end{table}
 
-
-
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC2: Planlæg Åbning}
+	\label{ATUC1:Hovedscenarie}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{white}	
+		\textbf{Use case under test} & U1: Åbn Vinflaske \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
+		\textbf{Prækondition} &
+		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden
+		er vinflasken uåbnet og forseglingen er fjernet \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurderi ng (OK/FAIL)}\\
+		1 & Tryk på Åbn nu på
+		brugergrænsefladen & Vinflasken åbnes af
+		systemet, og bruger
+		meddeles via
+		brugergrænsefladen
+		om, at vinen er åbnet &  &  \\
+		\hline
+	\end{tabular}
+\end{table}

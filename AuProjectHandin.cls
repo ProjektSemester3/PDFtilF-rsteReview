@@ -10,6 +10,7 @@
 %Defining Page Header
 \makepagestyle{AuHandin}
 \copypagestyle{plain}{AuHandin}
+
 \makeevenhead{AuHandin}{Gruppe \ShowGroupNumber}{\thetitle}{\today}
 \makeoddhead{AuHandin}{Gruppe \ShowGroupNumber}{\thetitle}{\today}
 

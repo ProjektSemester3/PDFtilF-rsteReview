@@ -9,25 +9,28 @@
 \contentsline {section}{\numberline {2.2}Use-Cases}{3}
 \contentsline {subsection}{Use-case Diagram}{3}
 \contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{4}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{5}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{4}
 \contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{6}
 \contentsline {subsection}{Brugervenlighed}{6}
 \contentsline {subsection}{Ydelse}{6}
-\contentsline {subsection}{Vedligeholdelse}{6}
-\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{7}
-\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{8}
-\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{8}
-\contentsline {subsection}{System Sekvens Diagram for use-case 1}{8}
-\contentsline {subsection}{System Sekvens Diagram for use-case 2}{9}
-\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{10}
-\contentsline {section}{\numberline {5.1}Block Definition Diagram}{10}
-\contentsline {subsubsection}{Blok beskrivelser}{10}
-\contentsline {paragraph}{WinePrep}{10}
-\contentsline {paragraph}{Embedded Linux Platform}{10}
-\contentsline {paragraph}{PSoC 5 Platform}{11}
-\contentsline {paragraph}{Motor}{11}
-\contentsline {paragraph}{Sensor}{11}
-\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{11}
-\contentsline {section}{\numberline {5.2}Internal Block Diagram}{12}
-\contentsline {subsection}{Signal Beskrivelser}{13}
-\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{14}
+\contentsline {subsection}{Vedligeholdelse}{7}
+\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{8}
+\contentsline {section}{\numberline {3.1}Test af Usecase 1}{8}
+\contentsline {section}{\numberline {3.2}Test af use case 2}{10}
+\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{11}
+\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{11}
+\contentsline {subsection}{System Sekvens Diagram for use-case 1}{11}
+\contentsline {subsection}{System Sekvens Diagram for use-case 2}{12}
+\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{13}
+\contentsline {section}{\numberline {5.1}Block Definition Diagram}{13}
+\contentsline {subsubsection}{Blok beskrivelser}{13}
+\contentsline {paragraph}{WinePrep}{13}
+\contentsline {paragraph}{Embedded Linux Platform}{13}
+\contentsline {paragraph}{PSoC 5 Platform}{14}
+\contentsline {paragraph}{Motor}{14}
+\contentsline {paragraph}{Sensor}{14}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{14}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{15}
+\contentsline {subsection}{Signal Beskrivelser}{16}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{17}
+\contentsline {section}{\numberline {6.1}CPU matrix}{17}
