@@ -11,8 +11,9 @@
 		\rowcolor{lightgray}
 		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
 		\textbf{Prækondition} &
-		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden
-		er vinflasken uåbnet og forseglingen er fjernet \\
+		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug. Desuden
+		er vinflasken uåbnet og forseglingen er fjernet
+ \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
@@ -38,7 +39,7 @@
 		\rowcolor{white}
 		\textbf{Scenarie} & Ext. 1: System registrerer ugyldig type af vinflaske \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
-		Vinflaske er anbragt i systemet og systemet er klar til brug \\
+		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
@@ -49,7 +50,8 @@
 		at vinflasken er af
 		ugyldig type, og bruger
 		bedes fjerne genstand
-		fra systemet &  &  \\
+		fra systemet
+ &  &  \\
 		\hline
 	\end{tabular}
 \end{table}
@@ -92,14 +94,14 @@
 		\rowcolor{white}
 		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
-		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet \\
+		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på \emph{Planlæg åbning} på brugergrænsefladen & Undermenuen \emph{Planlæg åbning} vises på brugergrænsefladen &  &  \\
-		2 & Indstil tid til 4 timer og 30 minutter ved at trykke på piltasterne & Den indstilelde tid vises til 4 timer og 30 minutter &  &  \\
-		3 & Tryk på \emph{Bekræft} & Hovedmenuen vises og den indstillede tid vises i \emph{Aktuel info} på brugergrænsefladen &  &  \\
+		2 & Indstil på brugergrænsefladen klokkeslættet 4 timer og 30 minutter frem & Den indstillede tid vises til det valgte klokkeslæt &  &  \\
+		3 & Tryk på \emph{Bekræft} & Hovedmenuen vises og det valgte klokkeslæt vises i \emph{Aktuel info} på brugergrænsefladen &  &  \\
 		4 & Vent 4 timer og 30 minutter & System meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
 		\hline
 	\end{tabular}
@@ -107,27 +109,70 @@
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC2: Planlæg Åbning}
-	\label{ATUC1:Hovedscenarie}
+	\caption{Accepttestspecifikation UC2 Ext. 1: Bruger ønsker ikke at åbne vin}
+	\label{ATUC2:Ext1}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
 	\begin{tabular}{ p{80pt}  p{320pt} }\hline
-		\rowcolor{white}	
-		\textbf{Use case under test} & U1: Åbn Vinflaske \\
-		\rowcolor{lightgray}
-		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & U2: Planlæg Åbning \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Ext. 1: Bruger ønsker ikke at åbne vin \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
-		Vinflasken er anbragt i maskinen og systemet er klar til brug. Desuden
-		er vinflasken uåbnet og forseglingen er fjernet \\
+		Bruger befinder sig i undermenuen \emph{Planlæg åbning} \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
-		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurderi ng (OK/FAIL)}\\
-		1 & Tryk på Åbn nu på
-		brugergrænsefladen & Vinflasken åbnes af
-		systemet, og bruger
-		meddeles via
-		brugergrænsefladen
-		om, at vinen er åbnet &  &  \\
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk \emph{Tilbage} på brugergrænsefladen & Hovedmenuen vises
+ &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC2 Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt}
+	\label{ATUC2:Ext2}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & U2: Planlæg Åbning \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt \\\rowcolor{lightgray}	
+		\textbf{Prækondition} &
+		Bruger befinder sig i undermenuen \emph{Planlæg åbning}. Bruger har valgt klokkeslæt til 10 minutter fra nuværende tidspunkt \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk \emph{Bekræft} på brugergrænsefladen & System meddeler bruger om at den indstillede tid ikke er tilstrækkelig til at vinen er drikkeklar, og beder bruger genbekræfte valget.
+ &  &  \\
+ 		2 & Tryk \emph{Annuller} & Undermenuen \emph{Planlæg åbning} vises\\
+		\hline
+	\end{tabular}
+\end{table}
+
+Accepttests for Ext.3 og 4 er ikke medtaget her fordi de testes under accepttest for UC1: Åbn Vinflaske.
+
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC2 Ext. 5: Bruger annullerer planlagt åbning af vin}
+	\label{ATUC2:Ext2}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & U2: Planlæg Åbning \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Ext. 5: Bruger annullerer planlagt åbning af vin \\\rowcolor{lightgray}	
+		\textbf{Prækondition} &
+		Bruger har valgt klokkeslæt til 4 timer og 30 minutter fra nuværende tidspunkt og har bekræftet sig valg. Desuden er en gyldig type vinflaske korrekt placeret i maskinen \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk \emph{STOP!} på brugergrænsefladen & System beder bruger via brugergrænsefladen bekræfte valg
+ &  &  \\
+ 		2 & Tryk \emph{Bekræft} & Hovedmenuen vises og \emph{Aktuel info} er tom \\
 		\hline
 	\end{tabular}
 \end{table}
