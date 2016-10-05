@@ -1,0 +1,51 @@
+\chapter{Accepttest Specifikation}
+\section{Test af Usecase 3}
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC1 Hovedscenarie}
+	\label{ATUC1:Hovedscenarie}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{white}	
+		\textbf{Use case under test} & U3: Indstil tid \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
+		\textbf{Prækondition} & Bruger befinder sig i hovedmenu.
+ \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på knappen "Indstillinger" på brugergrænsefladen & Brugergrænsefladen skifter menu til indstillingsmenuen &  &  \\
+		2 & Tryk på tekstboksen med timeantal & En dropdownmenu med antal timer fra 0 til 23 dukker op.  &  & \\
+		3 & Tryk på ønsket timeantal & Dropdownmenuen forsvinder og det valgte timeantal står nu i tekstboksen, og bekræftelsesknappen bliver synlig. &  &  \\
+		4 & Tryk på tekstboksen med minutantal & En dropdownmenu med antal minutter fra 0 til 59 dukker op.  &  & \\
+		5 & Tryk på ønsket timeantal & Dropdownmenuen forsvinder og det valgte minutantal står nu i tekstboksen, og bekræftelsesknappen dukker op &  &  \\
+		6 & Ændre på enten timer eller minutter & Bekræftelsesknappen dukker op &  &  \\
+		7 & Tryk på bekræftelsesknappen & Brugergrænsefladen skifter tilbage til hovedmenuen.  &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\caption{Accepttestspecifikation UC3 Ext. 1: Bruger trykker på tilbageknap}
+	\label{ATUC1:Ext1}
+	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
+	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+		\rowcolor{lightgray}	
+		\textbf{Use case under test} & U3: Indstil tid \\
+		\rowcolor{white}
+		\textbf{Scenarie} & Ext. 1: Bruger trykker på tilbageknap \\\rowcolor{lightgray}	
+		\textbf{Prækondition} &
+		Bruger er inde i indstillingsmenuen \\
+		\hline
+	\end{tabular}
+	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
+		1 & Tryk på tilbageknap & Brugergrænseflade er tilbage i hovedemenu
+ &  &  \\
+		\hline
+	\end{tabular}
+\end{table}
+

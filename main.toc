@@ -9,28 +9,34 @@
 \contentsline {section}{\numberline {2.2}Use-Cases}{3}
 \contentsline {subsection}{Use-case Diagram}{3}
 \contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{4}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{4}
-\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{6}
-\contentsline {subsection}{Brugervenlighed}{6}
-\contentsline {subsection}{Ydelse}{6}
-\contentsline {subsection}{Vedligeholdelse}{7}
-\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{8}
-\contentsline {section}{\numberline {3.1}Test af Usecase 1}{8}
-\contentsline {section}{\numberline {3.2}Test af use case 2}{10}
-\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{11}
-\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{11}
-\contentsline {subsection}{System Sekvens Diagram for use-case 1}{11}
-\contentsline {subsection}{System Sekvens Diagram for use-case 2}{12}
-\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{13}
-\contentsline {section}{\numberline {5.1}Block Definition Diagram}{13}
-\contentsline {subsubsection}{Blok beskrivelser}{13}
-\contentsline {paragraph}{WinePrep}{13}
-\contentsline {paragraph}{Embedded Linux Platform}{13}
-\contentsline {paragraph}{PSoC 5 Platform}{14}
-\contentsline {paragraph}{Motor}{14}
-\contentsline {paragraph}{Sensor}{14}
-\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{14}
-\contentsline {section}{\numberline {5.2}Internal Block Diagram}{15}
-\contentsline {subsection}{Signal Beskrivelser}{16}
-\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{17}
-\contentsline {section}{\numberline {6.1}CPU matrix}{17}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{5}
+\contentsline {section}{\numberline {2.3}Use-Cases}{6}
+\contentsline {subsection}{Use-case Diagram}{6}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{7}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{7}
+\contentsline {section}{\numberline {2.4}Ikke-funktionelle krav}{9}
+\contentsline {subsection}{Brugervenlighed}{9}
+\contentsline {subsection}{Ydelse}{9}
+\contentsline {subsection}{Vedligeholdelse}{10}
+\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
+\contentsline {section}{\numberline {3.1}Test af Usecase 1}{11}
+\contentsline {section}{\numberline {3.2}Test af use case 2}{13}
+\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{14}
+\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{14}
+\contentsline {subsection}{System Sekvens Diagram for use-case 1}{14}
+\contentsline {subsection}{System Sekvens Diagram for use-case 2}{15}
+\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{16}
+\contentsline {section}{\numberline {5.1}Block Definition Diagram}{16}
+\contentsline {subsubsection}{Blok beskrivelser}{16}
+\contentsline {paragraph}{WinePrep}{16}
+\contentsline {paragraph}{Embedded Linux Platform}{16}
+\contentsline {paragraph}{PSoC 5 Platform}{17}
+\contentsline {paragraph}{Motor}{17}
+\contentsline {paragraph}{Sensor}{17}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{17}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{18}
+\contentsline {subsection}{Signal Beskrivelser}{19}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{20}
+\contentsline {subsection}{Use-case 3: Indstil tid}{20}
+\contentsline {chapter}{\chapternumberline {7}Accepttest Specifikation}{23}
+\contentsline {section}{\numberline {7.1}Test af Usecase 3}{23}
