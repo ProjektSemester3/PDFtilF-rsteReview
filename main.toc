@@ -25,10 +25,13 @@
 \contentsline {section}{\numberline {5.1}Block Definition Diagram}{14}
 \contentsline {subsubsection}{Blok beskrivelser}{14}
 \contentsline {paragraph}{WinePrep}{14}
-\contentsline {paragraph}{Embedded Linux Platform}{14}
+\contentsline {paragraph}{Embedded Linux Platform}{15}
 \contentsline {paragraph}{PSoC 5 Platform}{15}
-\contentsline {paragraph}{Motor}{15}
+\contentsline {paragraph}{Positioneringsmekanisme}{15}
+\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{15}
+\contentsline {paragraph}{Motorstyring}{15}
 \contentsline {paragraph}{Sensor}{15}
+\contentsline {paragraph}{Motor}{15}
 \contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{15}
 \contentsline {section}{\numberline {5.2}Internal Block Diagram}{16}
 \contentsline {subsection}{Signal Beskrivelser}{17}
