@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.23)  6 OCT 2016 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.23)  7 OCT 2016 10:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -902,52 +902,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 
 (./config.tex) (./main.aux
 
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 <
-      <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
+LaTeX Warning: Label `ATUC2:Ext2' multiply defined.
 
 
 LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
 
 
 LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
-
-
-LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
-
-
-LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
-
-
-LaTeX Warning: Label `ATUC1:Ext2' multiply defined.
-
-
-LaTeX Warning: Label `ATUC2:Hovedscenarie' multiply defined.
-
-
-LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
-
-
-LaTeX Warning: Label `SSDUC1' multiply defined.
-
-
-LaTeX Warning: Label `SSDUC2' multiply defined.
-
-
-LaTeX Warning: Label `BDD' multiply defined.
-
-
-LaTeX Warning: Label `IBD' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -1029,22 +990,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc [1
+{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc) [
+1
 
 
-]) [2] (./projektformulering.tex) (./Kravspecifikation.tex
+] (./projektformulering.tex) (./Kravspecifikation.tex
 [1
 
 
 ] (./AktKontekst.tex
-<aktkontekstdiagram.pdf, id=24, 471.7625pt x 511.9125pt>
+<aktkontekstdiagram.pdf, id=20, 471.7625pt x 511.9125pt>
 File: aktkontekstdiagram.pdf Graphic file (type pdf)
 
 <use aktkontekstdiagram.pdf>
 Package pdftex.def Info: aktkontekstdiagram.pdf used on input line 6.
 (pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
 ) (./Use-Cases.tex
-<usecasediagram.pdf, id=25, 471.7625pt x 511.9125pt>
+<usecasediagram.pdf, id=21, 471.7625pt x 511.9125pt>
 File: usecasediagram.pdf Graphic file (type pdf)
  <use usecasediagram.pdf>
 Package pdftex.def Info: usecasediagram.pdf used on input line 7.
@@ -1426,13 +1388,13 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 162--178
  []
 
 ) (./SystemArk.tex [11] (./SystemSekvens.tex
-<SSDUC1.pdf, id=69, 722.7pt x 602.25pt>
+<SSDUC1.pdf, id=66, 722.7pt x 602.25pt>
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
 (pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
 
-<SSDUC2.pdf, id=70, 833.1125pt x 813.0375pt>
+<SSDUC2.pdf, id=67, 833.1125pt x 813.0375pt>
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
@@ -1445,7 +1407,7 @@ Overfull \hbox (47.55524pt too wide) in paragraph at lines 16--17
 )) (./hwarkitektur.tex [12
 
  <./SSDUC1.pdf>] [13 <./SSDUC2.pdf>]
-<blockdefinitiondiagram.pdf, id=87, 1636.1125pt x 662.475pt>
+<blockdefinitiondiagram.pdf, id=84, 1636.1125pt x 662.475pt>
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
@@ -1459,7 +1421,7 @@ Overfull \hbox (121.83754pt too wide) in paragraph at lines 7--8
 [14
 
  <./blockdefinitiondiagram.pdf>]
-<IBDiagram.pdf, id=96, 1324.95pt x 752.8125pt>
+<IBDiagram.pdf, id=93, 1324.95pt x 752.8125pt>
 File: IBDiagram.pdf Graphic file (type pdf)
  <use IBDiagram.pdf>
 Package pdftex.def Info: IBDiagram.pdf used on input line 35.
@@ -1530,12 +1492,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--9
  []
 
 
-Overfull \hbox (30.49487pt too wide) in paragraph at lines 22--22
+Overfull \hbox (30.49487pt too wide) in paragraph at lines 24--24
 []|\T1/cmr/bx/n/10.95 Udvidelser/Undtagelser| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
@@ -1551,7 +1513,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
 [18
 
-] [19]
+]
+Overfull \vbox (43.91986pt too high) has occurred while \output is active []
+
+
+[19] [20]
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1578,7 +1544,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\T1/cmr/m/n/10.95 "Indstil-lin-ger"på
+\T1/cmr/m/it/10.95 Indstil-lin-ger \T1/cmr/m/n/10.95 på
  []
 
 
@@ -1612,28 +1578,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]|\T1/cmr/m/n/10.95 En dro-p-down-me-nu
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 22--22
-\T1/cmr/m/n/10.95 med an-tal mi-nut-ter
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|\T1/cmr/m/n/10.95 Dropdownmenuen
+[]|\T1/cmr/m/n/10.95 Bekræftelsesknappen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\T1/cmr/m/n/10.95 for-svin-der og det
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\T1/cmr/m/n/10.95 valg-te mi-nutan-tal
+Underfull \hbox (badness 2103) in paragraph at lines 24--24
+[]|\T1/cmr/m/n/10.95 Ændre mi-nut-ter til
  []
 
 
@@ -1647,16 +1598,6 @@ Underfull \hbox (badness 2401) in paragraph at lines 25--25
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]|\T1/cmr/m/n/10.95 Brugergrænsefladen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\T1/cmr/m/n/10.95 skif-ter til-ba-ge til
- []
-
-
 Overfull \hbox (55.0pt too wide) in paragraph at lines 8--28
  [][] 
  []
@@ -1666,13 +1607,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--28
  [] 
  []
 
-[20
 
-]
-Overfull \vbox (105.57191pt too high) has occurred while \output is active []
-
-
-[21]
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1702,7 +1637,9 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 35--50
  [] 
  []
 
-) [22]
+[21
+
+]) [22]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -1712,10 +1649,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13663 strings out of 493013
- 230420 string characters out of 6136993
- 312582 words of memory out of 5000000
- 17061 multiletter control sequences out of 15000+600000
+ 13662 strings out of 493013
+ 230406 string characters out of 6136993
+ 312685 words of memory out of 5000000
+ 17060 multiletter control sequences out of 15000+600000
  16692 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1730,10 +1667,10 @@ rm1095.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/te
 xmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/f
 onts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (25 pages, 236303 bytes).
+Output written on main.pdf (24 pages, 235991 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 161 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

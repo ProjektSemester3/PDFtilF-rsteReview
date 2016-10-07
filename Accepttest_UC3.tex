@@ -2,7 +2,7 @@
 \section{Test af Usecase 3}
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC1 Hovedscenarie}
+	\caption{Accepttestspecifikation UC3 Hovedscenarie}
 	\label{ATUC1:Hovedscenarie}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
 	\begin{tabular}{ p{80pt}  p{320pt} }\hline
@@ -16,13 +16,13 @@
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-		1 & Tryk på knappen "Indstillinger" på brugergrænsefladen & Brugergrænsefladen skifter menu til indstillingsmenuen &  &  \\
+		1 & Tryk på knappen \emph{Indstillinger} på brugergrænsefladen & Brugergrænsefladen skifter menu til indstillingsmenuen &  &  \\
 		2 & Tryk på tekstboksen med timeantal & En dropdownmenu med antal timer fra 0 til 23 dukker op.  &  & \\
-		3 & Tryk på ønsket timeantal & Dropdownmenuen forsvinder og det valgte timeantal står nu i tekstboksen, og bekræftelsesknappen bliver synlig. &  &  \\
-		4 & Tryk på tekstboksen med minutantal & En dropdownmenu med antal minutter fra 0 til 59 dukker op.  &  & \\
-		5 & Tryk på ønsket timeantal & Dropdownmenuen forsvinder og det valgte minutantal står nu i tekstboksen, og bekræftelsesknappen dukker op &  &  \\
-		6 & Ændre på enten timer eller minutter & Bekræftelsesknappen dukker op &  &  \\
-		7 & Tryk på bekræftelsesknappen & Brugergrænsefladen skifter tilbage til hovedmenuen.  &  &  \\
+		3 & Tryk på timeantallet 23 & Dropdownmenuen forsvinder og det valgte timeantal står nu i tekstboksen, og bekræftelsesknappen bliver synlig. &  &  \\
+		
+		4 & Ændre timer til 12 & Bekræftelsesknappen dukker op &  &  \\
+		5 & Ændre minutter til 30 & Bekræftelsesknappen dukker op &  &  \\	
+		6 & Tryk på bekræftelsesknappen & Tiden er nu skiftet til 12:30.  &  &  \\
 		\hline
 	\end{tabular}
 \end{table}
