@@ -25,6 +25,7 @@
 \contentsline {section}{\numberline {5.1}Block Definition Diagram}{14}
 \contentsline {subsubsection}{Blok beskrivelser}{14}
 \contentsline {paragraph}{WinePrep}{14}
+<<<<<<< HEAD
 \contentsline {paragraph}{Embedded Linux Platform}{14}
 \contentsline {paragraph}{PSoC 5 Platform}{15}
 \contentsline {paragraph}{Motor}{15}
@@ -34,5 +35,19 @@
 \contentsline {subsection}{Signal Beskrivelser}{17}
 \contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{19}
 \contentsline {subsection}{Use-case 3: Indstil tid}{19}
+=======
+\contentsline {paragraph}{Embedded Linux Platform}{15}
+\contentsline {paragraph}{PSoC 5 Platform}{15}
+\contentsline {paragraph}{Positioneringsmekanisme}{15}
+\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{15}
+\contentsline {paragraph}{Motorstyring}{15}
+\contentsline {paragraph}{Sensor}{15}
+\contentsline {paragraph}{Motor}{15}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{15}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{16}
+\contentsline {subsection}{Signal Beskrivelser}{17}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{18}
+\contentsline {subsection}{Use-case 3: Indstil tid}{18}
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 \contentsline {chapter}{\chapternumberline {7}Accepttest Specifikation}{21}
 \contentsline {section}{\numberline {7.1}Test af Usecase 3}{21}

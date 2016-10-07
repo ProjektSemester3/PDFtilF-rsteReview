@@ -1,15 +1,17 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.23)  7 OCT 2016 10:10
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.8)  5 OCT 2016 21:38
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./main.tex
-(./main.tex
+(main.tex
 LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(./AuProjectHandin.cls
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(AuProjectHandin.cls
 Document Class: AuProjectHandin 23/08/16 ,Basic class for school projects on AU
  based on memoir
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/memoir.cls
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -17,17 +19,18 @@ ment class
 \xlvchars=\skip43
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+\l@nohyphenation=\language75
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(c:/texlive/2016/texmf-dist/tex/latex/ifetex/ifetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-(c:/texlive/2016/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -36,7 +39,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/mem11.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -335,15 +338,15 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/mempatch.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(./AuHandinMacros.sty
-(c:/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+(AuHandinMacros.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
 Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
 
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2016/05/18 v6512 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
 L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
@@ -450,7 +453,7 @@ L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen177
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
 File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count159
 \l__driver_tmp_box=\box44
@@ -462,7 +465,7 @@ Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 \l__xparse_processor_int=\count163
 \l__xparse_v_nesting_int=\count164
 )
-(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 .................................................
@@ -480,20 +483,20 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 . 
 . Defining command \PrintGroupMembers with sig. '' on line 87.
 .................................................
-)) (./AuPreamble.sty
-(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+))
+(AuPreamble.sty ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
-
-(c:/texlive/2016/texmf-dist/tex/latex/base/UTF8.def
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\UTF8.def"
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -730,7 +733,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -771,7 +774,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -795,46 +798,53 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2016/04/23 3.9r The Babel package
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel-danish/danish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-danish\danish.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count165
 \U@D=\dimen178
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count166
 )
-(c:/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 \everycr=\toks24
 \minrowclearance=\skip191
@@ -850,7 +860,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip192
 \LTright=\skip193
@@ -868,20 +878,20 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count172
 \LT@p@ftn=\toks25
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks26
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -889,7 +899,7 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen180
 \Gin@req@width=\dimen181
 )
-(c:/texlive/2016/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count173
 \float@exts=\toks27
@@ -900,7 +910,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@input{config.aux}
 \openout2 = `config.aux'.
 
-(./config.tex) (./main.aux
+(config.tex) (main.aux
+
+LaTeX Warning: Label `ATUC2:Ext2' multiply defined.
+
 
 LaTeX Warning: Label `ATUC2:Ext2' multiply defined.
 
@@ -925,7 +938,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
- (c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count174
 \scratchdimen=\dimen182
@@ -938,7 +951,7 @@ LaTeX Font Info:    ... okay on input line 9.
 \MPnumerator=\count178
 \makeMPintoPDFobject=\count179
 \everyMPtoPDFconversion=\toks30
-) (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -946,22 +959,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -974,12 +987,8 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(./titlepage.tex
+)
+(titlepage.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -990,27 +999,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc) [
-1
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+(main.toc) [1
 
 
-] (./projektformulering.tex) (./Kravspecifikation.tex
-[1
+] (projektformulering.tex) (Kravspecifikation.tex [1
 
 
-] (./AktKontekst.tex
-<aktkontekstdiagram.pdf, id=20, 471.7625pt x 511.9125pt>
+]
+(AktKontekst.tex <aktkontekstdiagram.pdf, id=19, 471.7625pt x 511.9125pt>
 File: aktkontekstdiagram.pdf Graphic file (type pdf)
 
 <use aktkontekstdiagram.pdf>
 Package pdftex.def Info: aktkontekstdiagram.pdf used on input line 6.
 (pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
-) (./Use-Cases.tex
-<usecasediagram.pdf, id=21, 471.7625pt x 511.9125pt>
+) (Use-Cases.tex
+<usecasediagram.pdf, id=20, 471.7625pt x 481.8pt>
 File: usecasediagram.pdf Graphic file (type pdf)
  <use usecasediagram.pdf>
 Package pdftex.def Info: usecasediagram.pdf used on input line 7.
-(pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
+(pdftex.def)             Requested size: 235.88066pt x 240.8994pt.
 
 [2
 
@@ -1044,7 +1052,11 @@ Overfull \hbox (55.0pt too wide) in alignment at lines 49--101
  [] [] 
  []
 
+<<<<<<< HEAD
 [4] [5]) (./ikke-funktionelle-krav.tex [6])) (./Accepttestspecifikation.tex
+=======
+[4] [5]) (ikke-funktionelle-krav.tex [6])) (Accepttestspecifikation.tex
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 [7]
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/cmr/bx/n/10.95 Faktisk
@@ -1290,6 +1302,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 115--130
 
 Underfull \hbox (badness 10000) in paragraph at lines 147--147
 []|\T1/cmr/bx/n/10.95 Faktisk
+<<<<<<< HEAD
  []
 
 
@@ -1313,6 +1326,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
  []
 
 
+=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+\T1/cmr/bx/n/10.95 ob-ser-va-
+ []
+
+
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 147--147
+\T1/cmr/bx/n/10.95 tion/resultat| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]|\T1/cmr/m/n/10.95 System med-del-er
+ []
+
+
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 Underfull \hbox (badness 3690) in paragraph at lines 148--149
 \T1/cmr/m/n/10.95 bru-ger om at den
  []
@@ -1387,14 +1425,23 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 162--178
  [] 
  []
 
+<<<<<<< HEAD
 ) (./SystemArk.tex [11] (./SystemSekvens.tex
 <SSDUC1.pdf, id=66, 722.7pt x 602.25pt>
+=======
+) (SystemArk.tex [11] (SystemSekvens.tex
+<SSDUC1.pdf, id=65, 722.7pt x 602.25pt>
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
 (pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
 
+<<<<<<< HEAD
 <SSDUC2.pdf, id=67, 833.1125pt x 813.0375pt>
+=======
+<SSDUC2.pdf, id=66, 833.1125pt x 813.0375pt>
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
@@ -1404,89 +1451,114 @@ Overfull \hbox (47.55524pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
+<<<<<<< HEAD
 )) (./hwarkitektur.tex [12
 
  <./SSDUC1.pdf>] [13 <./SSDUC2.pdf>]
 <blockdefinitiondiagram.pdf, id=84, 1636.1125pt x 662.475pt>
+=======
+)) (hwarkitektur.tex [12
+
+ <./SSDUC1.pdf>] [13 <./SSDUC2.pdf>]
+<blockdefinitiondiagram.pdf, id=83, 1375.1375pt x 803.0pt>
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
 Package pdftex.def Info: blockdefinitiondiagram.pdf used on input line 7.
+<<<<<<< HEAD
 (pdftex.def)             Requested size: 490.83754pt x 198.74403pt.
 
 Overfull \hbox (121.83754pt too wide) in paragraph at lines 7--8
+=======
+(pdftex.def)             Requested size: 412.54443pt x 240.90186pt.
+
+Overfull \hbox (43.54443pt too wide) in paragraph at lines 7--8
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
  [][] 
  []
 
 [14
 
  <./blockdefinitiondiagram.pdf>]
+<<<<<<< HEAD
 <IBDiagram.pdf, id=93, 1324.95pt x 752.8125pt>
+=======
+<IBDiagram.pdf, id=92, 1324.95pt x 752.8125pt>
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 File: IBDiagram.pdf Graphic file (type pdf)
  <use IBDiagram.pdf>
-Package pdftex.def Info: IBDiagram.pdf used on input line 35.
+Package pdftex.def Info: IBDiagram.pdf used on input line 41.
 (pdftex.def)             Requested size: 397.48807pt x 225.84549pt.
 
-Overfull \hbox (28.48807pt too wide) in paragraph at lines 35--36
+Overfull \hbox (28.48807pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
 [15]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 []|\T1/cmr/bx/n/10.95 Signal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 []|\T1/cmr/m/n/10.95 MISO, MO-SI, SS,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 \T1/cmr/m/n/10.95 Mo-torX-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 \T1/cmr/m/n/10.95 Mo-torY-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 \T1/cmr/m/n/10.95 Mo-torZ-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 \T1/cmr/m/n/10.95 Mo-torS-Di-rection,
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 45--45
+Underfull \hbox (badness 2080) in paragraph at lines 51--51
 []|\T1/cmr/m/n/10.95 Range, Sen-sor1, Sen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/cmr/m/n/10.95 Step, Mo-torX-step,
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 49--49
+Underfull \hbox (badness 7704) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 Mo-torY-step, Mo-torZ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
+<<<<<<< HEAD
 ) (./swarkitektur.tex
 Overfull \hbox (28.45462pt too wide) in paragraph at lines 42--1
 []  \T1/cmr/m/n/10.95 <<<<<<<
  []
 
 [16 <./IBDiagram.pdf>] [17]) (./UC3.tex
+=======
+) (swarkitektur.tex [16 <./IBDiagram.pdf>] [17]) (UC3.tex
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
@@ -1501,7 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-) (./Accepttest_UC3.tex
+) (Accepttest_UC3.tex
 Overfull \hbox (55.0pt too wide) in paragraph at lines 3--1
 []
  []
@@ -1513,11 +1585,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
 [18
 
+<<<<<<< HEAD
 ]
 Overfull \vbox (43.91986pt too high) has occurred while \output is active []
 
 
 [19] [20]
+=======
+] [19]
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1607,7 +1683,17 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--28
  [] 
  []
 
+<<<<<<< HEAD
 
+=======
+[20
+
+]
+Overfull \vbox (105.57191pt too high) has occurred while \output is active []
+
+
+[21]
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1637,18 +1723,23 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 35--50
  [] 
  []
 
+<<<<<<< HEAD
 [21
 
 ]) [22]
+=======
+) [22]
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./main.aux)
+ (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  13662 strings out of 493013
  230406 string characters out of 6136993
  312685 words of memory out of 5000000
@@ -1671,6 +1762,30 @@ Output written on main.pdf (24 pages, 235991 bytes).
 PDF statistics:
  161 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
+=======
+ 13666 strings out of 493334
+ 231046 string characters out of 3136644
+ 312204 words of memory out of 3000000
+ 17050 multiletter control sequences out of 15000+200000
+ 16692 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,11n,44p,10438b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/cm-super/sfrm2488.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/cm-super/sfsl1095.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on main.pdf (24 pages, 254374 bytes).
+PDF statistics:
+ 158 PDF objects out of 1000 (max. 8388607)
+>>>>>>> 02ceaedfd3fd06e952883230b6826b2008b7e471
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
