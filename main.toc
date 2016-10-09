@@ -10,7 +10,7 @@
 \contentsline {paragraph}{Bruger:}{4}
 \contentsline {section}{\numberline {2.2}Use-Cases}{5}
 \contentsline {subsection}{Use-case Diagram}{5}
-\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{6}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vinflaske}{6}
 \contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{7}
 \contentsline {subsection}{Use-case 3: Indstil tid}{9}
 \contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{10}
@@ -18,9 +18,9 @@
 \contentsline {subsection}{Ydelse}{10}
 \contentsline {subsection}{Vedligeholdelse}{10}
 \contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
-\contentsline {section}{\numberline {3.1}Test af Usecase 1}{11}
-\contentsline {section}{\numberline {3.2}Test af use case 2}{13}
-\contentsline {section}{\numberline {3.3}Test af Usecase 3}{15}
+\contentsline {section}{\numberline {3.1}Test af Use-case 1}{11}
+\contentsline {section}{\numberline {3.2}Test af use-case 2}{13}
+\contentsline {section}{\numberline {3.3}Test af Use-case 3}{15}
 \contentsline {section}{\numberline {3.4}Accepttest ikke-funktionelle krav}{16}
 \contentsline {chapter}{\chapternumberline {4}System Arkitektur}{19}
 \contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{19}
@@ -49,6 +49,6 @@
 \contentsline {subsection}{Applikationsmodel for use-case 1}{30}
 \contentsline {subsection}{Applikationsmodel for use-case 2}{32}
 \contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{34}
-\contentsline {subsection}{Applikationsmodel usecase 1}{34}
-\contentsline {subsection}{Applikationsmodel usecase 2}{35}
-\contentsline {subsection}{Applikationsmodel usecase 3}{37}
+\contentsline {subsection}{Applikationsmodel use-case 1}{34}
+\contentsline {subsection}{Applikationsmodel use-case 2}{35}
+\contentsline {subsection}{Applikationsmodel use-case 3}{37}

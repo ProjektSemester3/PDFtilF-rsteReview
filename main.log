@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 23:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,6 +1095,11 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 3--6
  []
 
 [8] [9] (./ikke-funktionelle-krav.tex)) (./Accepttestspecifikation.tex [10]
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1127,6 +1132,11 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 8--29
 
 Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--29
  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
@@ -1177,6 +1187,11 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 36--57
 [11
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 74--74
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1224,6 +1239,11 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 64--82
 
 Overfull \hbox (53.79999pt too wide) in paragraph at lines 64--82
  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
@@ -1307,6 +1327,11 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 91--108
  []
 
 [12]
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1334,6 +1359,11 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 115--130
 
 Overfull \hbox (53.79999pt too wide) in paragraph at lines 115--130
  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
@@ -1397,6 +1427,11 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 137--153
  []
 
 [13]
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 172--172
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1437,6 +1472,11 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 162--178
  []
 
 (./Accepttest_UC3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1527,6 +1567,11 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--28
  []
 
 [14]
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -2626,7 +2671,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  13811 strings out of 493013
  234636 string characters out of 6136993
- 323267 words of memory out of 5000000
+ 323274 words of memory out of 5000000
  17174 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2642,7 +2687,7 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (40 pages, 3734126 bytes).
+Output written on main.pdf (40 pages, 3734277 bytes).
 PDF statistics:
  411 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams
