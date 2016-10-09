@@ -18,23 +18,25 @@ Her følger beskrivelser af de enkelte blokke på vores BDD, se side \pageref{BD
 
 \paragraph{PSoC 5 Platform} PSoC 5 baseret platform der står for styring af Motor og Sensor blokkene, samt kommunikere med blokken Embedded Linux Platform over SPI.
 
-\paragraph{Strømforsygning} 
+\paragraph{Strømforsyning} Strømforsyning skal kunne modtage 230V fra dansk stikkontakt, og forsyne systemet med de nødvendige spændinger.
 
-\paragraph{Positioneringsmekanisme} 
+\paragraph{Positioneringsmekanisme} Denne blok indeholder alt hvad vi bruger til at bevæge på vores sensorer når vi scanner flasken, og til at flytte på vores åbningsmekaniske i forhold til flaskens placering. Blokken består dermed af en motorstyrings blok samt en motor blok for hver af de 3 akser.
 
-\paragraph{Åbningsmekanisme} 
+\paragraph{Åbningsmekanisme} Åbningsmekanismen består af de to motorer som anvendes til at skrue proptrækker-skruen i vinflaskens prop, samt til at trække proppen ud af vinflasken, samt to motorstyrings blokke til disse motorer.
 
-\paragraph{Motorstyring} 
+\paragraph{Motorstyring} Motorstyrings blokken består af en CY8CKIT-059, som anvendes til at styrer én motor når der kommer signal fra PSOC5 platforms blokken om dette.
 
-\paragraph{Sensor} Afstandssensorer til detektering af vinflaskens placering samt størrelse, så åbningsmekanismen ud fra dette kan positioneres korrekt ved hjælp af motorer på X, Y , Z akserne.
+\paragraph{Sensor1} Afstandssensorer til detektering af vinflaskens placering samt størrelse, så åbningsmekanismen ud fra dette kan positioneres korrekt ved hjælp af motorer på X, Y , Z akserne.
 
-\paragraph{Motor} 
+\paragraph{Sensor2} Sensor til at detekterer når en akse kommer til et yderpunkt.
+
+\paragraph{Motor} Motorblokken er alle de motorer som anvendes i systemet til positionering og prop-træk. Denne blok skal eventuelt opdeles i flere forskellige blokke hvis vi får brug for at anvende andre typer motorer end steppermotorer.
 
 \subsection{Ting der først bliver fast besluttet på senere iterationer/sprints}
 
 Motor Valg er ikke 100\% fastlagt, hvorfor det her i BDD modelleres med stepper motors, og portene er derfor heller ikke 100\% korrekte da dette afhænger af motorstyringen.
 
-Sensor typer og antal ligger kun delvist fast, der vil være minimum 2 afstandssensorer af en art, hvorfor BDD er lavet mod 2 sensorer, det bliver enten lys baserede eller lydbaserede, der vil give et analog output signal i form af en spænding der afhænger af afstanden.
+Sensor typer og antal ligger kun delvist fast. Der vil være 2 afstandssensorer til detektering af vinflaskens placering, samt 3 sensorer af ikke nærmerer fastlagt type til at detekterer hvis en akse når til et yderpunkt. Afstands sensorer til detektering af vinflaskens position, bliver enten lys baserede eller lydbaserede, der vil give et analog output signal i form af en spænding der afhænger af afstanden. Sensorer til detektering på aksernes yderpunkter overvejes implementeret med en switch, eller eventuelt strain gauge.
 
 \section{Internal Block Diagram}
 
