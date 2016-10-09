@@ -1,49 +1,50 @@
 \select@language {danish}
 \contentsline {chapter}{Indhold}{i}
 \contentsline {chapter}{\chapternumberline {1}Indledning}{1}
-\contentsline {section}{\numberline {1.1}projektformulering}{1}
-\contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{2}
-\contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{2}
-\contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{2}
-\contentsline {paragraph}{Bruger:}{2}
-\contentsline {section}{\numberline {2.2}Use-Cases}{3}
-\contentsline {subsection}{Use-case Diagram}{3}
-\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{4}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{4}
-\contentsline {subsection}{Use-case 3: Indstil tid}{7}
-\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{7}
-\contentsline {subsection}{Brugervenlighed}{7}
-\contentsline {subsection}{Ydelse}{8}
-\contentsline {subsection}{Vedligeholdelse}{8}
-\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{9}
-\contentsline {section}{\numberline {3.1}Test af Usecase 1}{9}
-\contentsline {section}{\numberline {3.2}Test af use case 2}{11}
-\contentsline {section}{\numberline {3.3}Test af Usecase 3}{13}
-\contentsline {section}{\numberline {3.4}Accepttest ikke-funktionelle krav}{14}
-\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{17}
-\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{17}
-\contentsline {subsection}{System Sekvens Diagram for use-case 1}{17}
-\contentsline {subsection}{System Sekvens Diagram for use-case 2}{18}
-\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{19}
-\contentsline {section}{\numberline {5.1}Block Definition Diagram}{19}
-\contentsline {subsubsection}{Blok beskrivelser}{19}
-\contentsline {paragraph}{WinePrep}{19}
-\contentsline {paragraph}{Embedded Linux Platform}{20}
-\contentsline {paragraph}{PSoC 5 Platform}{20}
-\contentsline {paragraph}{Str\IeC {\o }mforsyning}{20}
-\contentsline {paragraph}{Positioneringsmekanisme}{20}
-\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{20}
-\contentsline {paragraph}{Motorstyring}{20}
-\contentsline {paragraph}{Sensor1}{20}
-\contentsline {paragraph}{Sensor2}{20}
-\contentsline {paragraph}{Motor}{20}
-\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{20}
-\contentsline {section}{\numberline {5.2}Internal Block Diagram}{21}
-\contentsline {subsection}{Signal Beskrivelser}{22}
-\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{23}
-\contentsline {section}{\numberline {6.1}CPU matrix}{23}
-\contentsline {section}{\numberline {6.2}PSoC 5 Applikationsmodel}{24}
-\contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{24}
-\contentsline {subsection}{Applikationsmodel usecase 1}{24}
-\contentsline {subsection}{Applikationsmodel usecase 2}{25}
-\contentsline {subsection}{Applikationsmodel usecase 3}{27}
+\contentsline {section}{\numberline {1.1}Projektformulering}{1}
+\contentsline {subsection}{Projektdefinition}{1}
+\contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{4}
+\contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{4}
+\contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{4}
+\contentsline {paragraph}{Bruger:}{4}
+\contentsline {section}{\numberline {2.2}Use-Cases}{5}
+\contentsline {subsection}{Use-case Diagram}{5}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{6}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{6}
+\contentsline {subsection}{Use-case 3: Indstil tid}{9}
+\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{9}
+\contentsline {subsection}{Brugervenlighed}{9}
+\contentsline {subsection}{Ydelse}{10}
+\contentsline {subsection}{Vedligeholdelse}{10}
+\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
+\contentsline {section}{\numberline {3.1}Test af Usecase 1}{11}
+\contentsline {section}{\numberline {3.2}Test af use case 2}{13}
+\contentsline {section}{\numberline {3.3}Test af Usecase 3}{15}
+\contentsline {section}{\numberline {3.4}Accepttest ikke-funktionelle krav}{16}
+\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{19}
+\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{19}
+\contentsline {subsection}{System Sekvens Diagram for use-case 1}{19}
+\contentsline {subsection}{System Sekvens Diagram for use-case 2}{20}
+\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{21}
+\contentsline {section}{\numberline {5.1}Block Definition Diagram}{21}
+\contentsline {subsubsection}{Blok beskrivelser}{21}
+\contentsline {paragraph}{WinePrep}{21}
+\contentsline {paragraph}{Embedded Linux Platform}{22}
+\contentsline {paragraph}{PSoC 5 Platform}{22}
+\contentsline {paragraph}{Str\IeC {\o }mforsyning}{22}
+\contentsline {paragraph}{Positioneringsmekanisme}{22}
+\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{22}
+\contentsline {paragraph}{Motorstyring}{22}
+\contentsline {paragraph}{Sensor1}{22}
+\contentsline {paragraph}{Sensor2}{22}
+\contentsline {paragraph}{Motor}{22}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{22}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{23}
+\contentsline {subsection}{Signal Beskrivelser}{24}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{25}
+\contentsline {section}{\numberline {6.1}CPU matrix}{25}
+\contentsline {section}{\numberline {6.2}PSoC 5 Applikationsmodel}{26}
+\contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{26}
+\contentsline {subsection}{Applikationsmodel usecase 1}{26}
+\contentsline {subsection}{Applikationsmodel usecase 2}{27}
+\contentsline {subsection}{Applikationsmodel usecase 3}{30}

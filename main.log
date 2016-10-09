@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,6 +910,12 @@ LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
 
 LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
 
+
+LaTeX Warning: Label `SD:UC2-devkit' multiply defined.
+
+
+LaTeX Warning: Label `CD:UC2-devkit' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -994,27 +1000,46 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 1
 
 
-] (./projektformulering.tex) (./Kravspecifikation.tex
-[1
+] (./projektformulering.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+ [1
 
 
-] (./AktKontekst.tex
-<aktkontekstdiagram.pdf, id=20, 471.7625pt x 511.9125pt>
+]
+<WinePrep_realistisk.png, id=22, 631.76025pt x 272.217pt>
+File: WinePrep_realistisk.png Graphic file (type png)
+
+<use WinePrep_realistisk.png>
+Package pdftex.def Info: WinePrep_realistisk.png used on input line 34.
+(pdftex.def)             Requested size: 631.7587pt x 272.21631pt.
+
+Overfull \hbox (262.7587pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
+[2]) (./Kravspecifikation.tex [3 <./WinePrep_realistisk.png>]
+(./AktKontekst.tex <aktkontekstdiagram.pdf, id=30, 471.7625pt x 511.9125pt>
 File: aktkontekstdiagram.pdf Graphic file (type pdf)
 
 <use aktkontekstdiagram.pdf>
 Package pdftex.def Info: aktkontekstdiagram.pdf used on input line 6.
 (pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
 ) (./Use-Cases.tex
-<usecasediagram.pdf, id=21, 471.7625pt x 481.8pt>
+<usecasediagram.pdf, id=31, 471.7625pt x 481.8pt>
 File: usecasediagram.pdf Graphic file (type pdf)
  <use usecasediagram.pdf>
 Package pdftex.def Info: usecasediagram.pdf used on input line 7.
 (pdftex.def)             Requested size: 235.88066pt x 240.8994pt.
 
-[2
+[4
 
- <./aktkontekstdiagram.pdf>] [3 <./usecasediagram.pdf>]
+ <./aktkontekstdiagram.pdf>] [5 <./usecasediagram.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
@@ -1044,7 +1069,7 @@ Overfull \hbox (55.0pt too wide) in alignment at lines 49--101
  [] [] 
  []
 
-[4] [5] (./UC3.tex
+[6] [7] (./UC3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
@@ -1069,7 +1094,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-(./ikke-funktionelle-krav.tex [6] [7])) (./Accepttestspecifikation.tex [8]
+(./ikke-funktionelle-krav.tex [8] [9])) (./Accepttestspecifikation.tex [10]
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1149,7 +1174,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 36--57
  [] 
  []
 
-[9
+[11
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 74--74
@@ -1281,7 +1306,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 91--108
  [] 
  []
 
-[10]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1371,7 +1396,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 137--153
  [] 
  []
 
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 172--172
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -1501,7 +1526,7 @@ Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--28
  [] 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -2311,14 +2336,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/cmr/m/n/10.95 sen-sor-sty-
  []
 
-[13] [14] [15])) (./SystemArk.tex [16] (./SystemSekvens.tex
-<SSDUC1.pdf, id=81, 722.7pt x 602.25pt>
+[15] [16] [17])) (./SystemArk.tex [18] (./SystemSekvens.tex
+<SSDUC1.pdf, id=90, 722.7pt x 602.25pt>
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
 (pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
 
-<SSDUC2.pdf, id=82, 833.1125pt x 813.0375pt>
+<SSDUC2.pdf, id=91, 833.1125pt x 813.0375pt>
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
@@ -2328,10 +2353,10 @@ Overfull \hbox (47.55524pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
-)) (./hwarkitektur.tex [17
+)) (./hwarkitektur.tex [19
 
- <./SSDUC1.pdf>] [18 <./SSDUC2.pdf>]
-<blockdefinitiondiagram.pdf, id=100, 1375.1375pt x 803.0pt>
+ <./SSDUC1.pdf>] [20 <./SSDUC2.pdf>]
+<blockdefinitiondiagram.pdf, id=108, 1375.1375pt x 803.0pt>
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
@@ -2342,10 +2367,10 @@ Overfull \hbox (43.54443pt too wide) in paragraph at lines 7--8
  [][] 
  []
 
-[19
+[21
 
- <./blockdefinitiondiagram.pdf>] [20]
-<IBDiagram.pdf, id=112, 1324.95pt x 752.8125pt>
+ <./blockdefinitiondiagram.pdf>] [22]
+<IBDiagram.pdf, id=120, 1324.95pt x 752.8125pt>
 File: IBDiagram.pdf Graphic file (type pdf)
  <use IBDiagram.pdf>
 Package pdftex.def Info: IBDiagram.pdf used on input line 45.
@@ -2405,9 +2430,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
-) (./swarkitektur.tex [21 <./IBDiagram.pdf>] [22] (./CPUmatrix.tex)
+) (./swarkitektur.tex [23 <./IBDiagram.pdf>] [24] (./CPUmatrix.tex)
 (./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex
-<SD-åbn-vinflaske-Linux-platform.pdf, id=123, 1234.6125pt x 823.075pt>
+<SD-åbn-vinflaske-Linux-platform.pdf, id=132, 1234.6125pt x 823.075pt>
 File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-åbn-vinflaske-Linux-platform.pdf>
@@ -2419,17 +2444,17 @@ Overfull \hbox (124.83626pt too wide) in paragraph at lines 7--8
 [][] 
  []
 
-[23
+[25
 
-] <CD-åbn-vinflaske-Linux-platform.pdf, id=128, 963.6pt x 592.2125pt>
+] <CD-åbn-vinflaske-Linux-platform.pdf, id=136, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
 Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
  14.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [24 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
-m.pdf, id=137, 963.6pt x 1324.95pt>
+ [26 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
+m.pdf, id=145, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -2441,16 +2466,33 @@ Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
 [][] 
  []
 
-[25 <./CD-åbn-vinflaske-Linux-platform.pdf>]
-<CD-planlaeg-åbning-Linux-platform.pdf, id=145, 963.6pt x 592.2125pt>
+[27 <./CD-åbn-vinflaske-Linux-platform.pdf>]
+<CD-planlaeg-åbning-Linux-platform.pdf, id=153, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
 Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
 ne 31.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [26 <./SD-planlaeg-åbning-Linux-platform.pdf>])) [27 <./CD-planlaeg-åbning-Lin
-ux-platform.pdf>]
+ [28 <./SD-planlaeg-åbning-Linux-platform.pdf>]
+File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+ <use SD-planlaeg-åbning-Linux-platform.pdf>
+Package pdftex.def Info: SD-planlaeg-åbning-Linux-platform.pdf used on input li
+ne 39.
+(pdftex.def)             Requested size: 385.43317pt x 529.97061pt.
+
+Overfull \hbox (16.43317pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+[29 <./CD-planlaeg-åbning-Linux-platform.pdf>]
+File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+
+<use CD-planlaeg-åbning-Linux-platform.pdf>
+Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
+ne 46.
+(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
+ [30])) [31]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -2460,28 +2502,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13711 strings out of 493013
- 231862 string characters out of 6136993
+ 13735 strings out of 493013
+ 232314 string characters out of 6136993
  320260 words of memory out of 5000000
- 17093 multiletter control sequences out of 15000+600000
+ 17113 multiletter control sequences out of 15000+600000
  16692 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
-ive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2016/texmf-dist/fonts/type
-1/public/cm-super/sfbx2074.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/c
-m-super/sfbx2488.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sf
-rm1095.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texli
-ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (29 pages, 257994 bytes).
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/
+texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2016/texmf-dist
+/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2016/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx1440.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
+cm-super/sfbx2074.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/s
+fbx2488.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
+b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
+ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
+exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
+fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/fonts/type
+1/public/cm-super/sfti1095.pfb>
+Output written on main.pdf (33 pages, 329557 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
+ 217 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
