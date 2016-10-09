@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -909,6 +909,12 @@ LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
 
 
 LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
+
+
+LaTeX Warning: Label `SD:PSoC:ScanX' multiply defined.
+
+
+LaTeX Warning: Label `SD:PSoC:ScanX' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -2430,26 +2436,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
  []
 
 ) (./swarkitektur.tex [23 <./IBDiagram.pdf>] [24] (./CPUmatrix.tex)
-(./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex
-<SD-åbn-vinflaske-Linux-platform.pdf, id=131, 1234.6125pt x 823.075pt>
+(./PSoC5Applicationsmode.tex
+<APPSoC/SD-Gaa-til-position-v1.pdf, id=131, 1653.92906pt x 2281.02188pt>
+File: APPSoC/SD-Gaa-til-position-v1.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Gaa-til-position-v1.pdf>
+Package pdftex.def Info: APPSoC/SD-Gaa-til-position-v1.pdf used on input line 1
+2.
+(pdftex.def)             Requested size: 188.54639pt x 661.47942pt.
+ [25
+
+]
+Overfull \vbox (86.60779pt too high) has occurred while \output is active []
+
+
+[26 <./APPSoC/SD-Gaa-til-position-v1.pdf>]
+<APPSoC/SD-Scan-x-aksen.pdf, id=152, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-x-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-x-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-x-aksen.pdf used on input line 18.
+(pdftex.def)             Requested size: 421.411pt x 292.31703pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 18--19
+[][] 
+ []
+
+<APPSoC/SD-Scan-y-aksen.pdf, id=154, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-y-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-y-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-y-aksen.pdf used on input line 24.
+(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+[27 <./APPSoC/SD-Scan-x-aksen.pdf>]
+<APPSoC/SD-Scan-z-aksen.pdf, id=175, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-z-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-z-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-z-aksen.pdf used on input line 30.
+(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 30--31
+[][] 
+ []
+
+[28 <./APPSoC/SD-Scan-y-aksen.pdf>]
+<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=195, 2462.44969pt x 2842.62pt>
+File: APPSoC/UC1-Aaben-nu-v1-simplified.pdf Graphic file (type pdf)
+
+<use APPSoC/UC1-Aaben-nu-v1-simplified.pdf>
+Package pdftex.def Info: APPSoC/UC1-Aaben-nu-v1-simplified.pdf used on input li
+ne 38.
+(pdftex.def)             Requested size: 492.48122pt x 568.51393pt.
+
+Overfull \hbox (123.48122pt too wide) in paragraph at lines 38--39
+[][] 
+ []
+
+[29 <./APPSoC/SD-Scan-z-aksen.pdf>]
+Overfull \vbox (25.04692pt too high) has occurred while \output is active []
+
+
+[30 <./APPSoC/UC1-Aaben-nu-v1-simplified.pdf>]
+<APPSoC/UC1-CD-Aaben-nu-PSoC.pdf, id=242, 1074.0125pt x 923.45pt>
+File: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf Graphic file (type pdf)
+
+<use APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>
+Package pdftex.def Info: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf used on input line 46.
+
+(pdftex.def)             Requested size: 375.91pt x 323.21234pt.
+
+Overfull \hbox (6.91pt too wide) in paragraph at lines 46--47
+[][] 
+ []
+
+
+<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=244, 2462.44969pt x 3404.218
+12pt>
+File: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf Graphic file (type pdf)
+ <use APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>
+Package pdftex.def Info: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf used on 
+input line 55.
+(pdftex.def)             Requested size: 443.22183pt x 612.73283pt.
+
+Overfull \hbox (74.22183pt too wide) in paragraph at lines 55--56
+[][] 
+ []
+
+[31 <./APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>]
+Overfull \vbox (69.26582pt too high) has occurred while \output is active []
+
+
+[32 <./APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>]
+<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=280, 1074.0125pt x 923.45pt>
+File: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf Graphic file (type pdf)
+
+<use APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>
+Package pdftex.def Info: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf used on input 
+line 63.
+(pdftex.def)             Requested size: 375.91pt x 323.21234pt.
+
+Overfull \hbox (6.91pt too wide) in paragraph at lines 63--64
+[][] 
+ []
+
+) (./DevkitApplicationsmode.tex
+<SD-åbn-vinflaske-Linux-platform.pdf, id=282, 1234.6125pt x 823.075pt>
 File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-åbn-vinflaske-Linux-platform.pdf>
 Package pdftex.def Info: SD-åbn-vinflaske-Linux-platform.pdf used on input line
  7.
 (pdftex.def)             Requested size: 353.3134pt x 329.22417pt.
- [25
-
-]
-<CD-åbn-vinflaske-Linux-platform.pdf, id=136, 963.6pt x 592.2125pt>
+ [33 <./APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>]
+<CD-åbn-vinflaske-Linux-platform.pdf, id=293, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
 Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
  14.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [26 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
-m.pdf, id=146, 963.6pt x 1324.95pt>
+ [34 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
+m.pdf, id=303, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -2461,19 +2574,19 @@ Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
 [][] 
  []
 
-[27 <./CD-åbn-vinflaske-Linux-platform.pdf>]
-<CD-planlaeg-åbning-Linux-platform.pdf, id=154, 963.6pt x 592.2125pt>
+[35 <./CD-åbn-vinflaske-Linux-platform.pdf>]
+<CD-planlaeg-åbning-Linux-platform.pdf, id=312, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
 Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
 ne 31.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [28 <./SD-planlaeg-åbning-Linux-platform.pdf>]
+ [36 <./SD-planlaeg-åbning-Linux-platform.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/SD_UC3.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Applikationsmodel_UC3/SD_UC3.pdf, id=164, 597.55246pt x 845.07724pt>
+<Applikationsmodel_UC3/SD_UC3.pdf, id=321, 597.55246pt x 845.07724pt>
 File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/SD_UC3.pdf>
@@ -2485,26 +2598,26 @@ Package pdftex.def Info: Applikationsmodel_UC3/SD_UC3.pdf used on input line 39
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Statemachine_UC3.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=165, 597.55246pt x 845.07724pt>
+<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=322, 597.55246pt x 845.07724pt>
 File: Applikationsmodel_UC3/Statemachine_UC3.pdf Graphic file (type pdf)
 <use Applikationsmodel_UC3/Statemachine_UC3.pdf>
 Package pdftex.def Info: Applikationsmodel_UC3/Statemachine_UC3.pdf used on inp
 ut line 45.
 (pdftex.def)             Requested size: 340.99545pt x 169.97688pt.
- [29 <./CD-planlaeg-åbning-Linux-platform.pdf> <./Applikationsmodel_UC3/SD_UC3.
+ [37 <./CD-planlaeg-åbning-Linux-platform.pdf> <./Applikationsmodel_UC3/SD_UC3.
 pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Klassediagram_UC3.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=189, 597.55246pt x 845.07724pt
+<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=345, 597.55246pt x 845.07724pt
 >
 File: Applikationsmodel_UC3/Klassediagram_UC3.pdf Graphic file (type pdf)
  <use Applikationsmodel_UC3/Klassediagram_UC3.pdf>
 Package pdftex.def Info: Applikationsmodel_UC3/Klassediagram_UC3.pdf used on in
 put line 52.
 (pdftex.def)             Requested size: 292.28607pt x 25.24536pt.
-)) [30 <./Applikationsmodel_UC3/Statemachine_UC3.pdf> <./Applikationsmodel_UC3/
+)) [38 <./Applikationsmodel_UC3/Statemachine_UC3.pdf> <./Applikationsmodel_UC3/
 Klassediagram_UC3.pdf>]
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -2516,10 +2629,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13762 strings out of 493013
- 233104 string characters out of 6136993
- 322883 words of memory out of 5000000
- 17134 multiletter control sequences out of 15000+600000
+ 13811 strings out of 493013
+ 234636 string characters out of 6136993
+ 323260 words of memory out of 5000000
+ 17174 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2534,10 +2647,10 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (32 pages, 2422790 bytes).
+Output written on main.pdf (40 pages, 3734207 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 411 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 

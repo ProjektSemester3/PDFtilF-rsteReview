@@ -44,8 +44,11 @@
 \contentsline {subsection}{Signal Beskrivelser}{24}
 \contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{25}
 \contentsline {section}{\numberline {6.1}CPU matrix}{25}
-\contentsline {section}{\numberline {6.2}PSoC 5 Applikationsmodel}{26}
-\contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{26}
-\contentsline {subsection}{Applikationsmodel usecase 1}{26}
-\contentsline {subsection}{Applikationsmodel usecase 2}{27}
-\contentsline {subsection}{Applikationsmodel usecase 3}{29}
+\contentsline {section}{\numberline {6.2}PSoC 5 Applikationsmodel}{25}
+\contentsline {subsection}{Sekvensdiagrammer der anvendes i Applikationsmodel for use-case 1 og 2}{25}
+\contentsline {subsection}{Applikationsmodel for use-case 1}{30}
+\contentsline {subsection}{Applikationsmodel for use-case 2}{32}
+\contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{34}
+\contentsline {subsection}{Applikationsmodel usecase 1}{34}
+\contentsline {subsection}{Applikationsmodel usecase 2}{35}
+\contentsline {subsection}{Applikationsmodel usecase 3}{37}
