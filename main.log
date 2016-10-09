@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -909,12 +909,6 @@ LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
 
 
 LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
-
-
-LaTeX Warning: Label `SD:UC2-devkit' multiply defined.
-
-
-LaTeX Warning: Label `CD:UC2-devkit' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -2438,15 +2432,11 @@ File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 <use SD-åbn-vinflaske-Linux-platform.pdf>
 Package pdftex.def Info: SD-åbn-vinflaske-Linux-platform.pdf used on input line
  7.
-(pdftex.def)             Requested size: 493.83626pt x 329.22417pt.
+(pdftex.def)             Requested size: 353.3134pt x 329.22417pt.
+ [25
 
-Overfull \hbox (124.83626pt too wide) in paragraph at lines 7--8
-[][] 
- []
-
-[25
-
-] <CD-åbn-vinflaske-Linux-platform.pdf, id=136, 963.6pt x 592.2125pt>
+]
+<CD-åbn-vinflaske-Linux-platform.pdf, id=137, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
@@ -2454,7 +2444,7 @@ Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
  14.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
  [26 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
-m.pdf, id=145, 963.6pt x 1324.95pt>
+m.pdf, id=147, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -2467,7 +2457,7 @@ Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
  []
 
 [27 <./CD-åbn-vinflaske-Linux-platform.pdf>]
-<CD-planlaeg-åbning-Linux-platform.pdf, id=153, 963.6pt x 592.2125pt>
+<CD-planlaeg-åbning-Linux-platform.pdf, id=155, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
@@ -2475,37 +2465,56 @@ Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
 ne 31.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
  [28 <./SD-planlaeg-åbning-Linux-platform.pdf>]
-File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
- <use SD-planlaeg-åbning-Linux-platform.pdf>
-Package pdftex.def Info: SD-planlaeg-åbning-Linux-platform.pdf used on input li
-ne 39.
-(pdftex.def)             Requested size: 385.43317pt x 529.97061pt.
 
-Overfull \hbox (16.43317pt too wide) in paragraph at lines 39--40
-[][] 
- []
+pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/SD_UC3.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Applikationsmodel_UC3/SD_UC3.pdf, id=165, 597.55246pt x 845.07724pt>
+File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
-[29 <./CD-planlaeg-åbning-Linux-platform.pdf>]
-File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+<use Applikationsmodel_UC3/SD_UC3.pdf>
+Package pdftex.def Info: Applikationsmodel_UC3/SD_UC3.pdf used on input line 39
+.
+(pdftex.def)             Requested size: 292.28607pt x 266.14781pt.
 
-<use CD-planlaeg-åbning-Linux-platform.pdf>
-Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
-ne 46.
-(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [30])) [31]
+
+pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Statemachine_UC3.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=166, 597.55246pt x 845.07724pt>
+File: Applikationsmodel_UC3/Statemachine_UC3.pdf Graphic file (type pdf)
+<use Applikationsmodel_UC3/Statemachine_UC3.pdf>
+Package pdftex.def Info: Applikationsmodel_UC3/Statemachine_UC3.pdf used on inp
+ut line 45.
+(pdftex.def)             Requested size: 340.99545pt x 169.97688pt.
+ [29 <./CD-planlaeg-åbning-Linux-platform.pdf> <./Applikationsmodel_UC3/SD_UC3.
+pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Klassediagram_UC3.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=190, 597.55246pt x 845.07724pt
+>
+File: Applikationsmodel_UC3/Klassediagram_UC3.pdf Graphic file (type pdf)
+ <use Applikationsmodel_UC3/Klassediagram_UC3.pdf>
+Package pdftex.def Info: Applikationsmodel_UC3/Klassediagram_UC3.pdf used on in
+put line 52.
+(pdftex.def)             Requested size: 292.28607pt x 25.24536pt.
+)) [30 <./Applikationsmodel_UC3/Statemachine_UC3.pdf> <./Applikationsmodel_UC3/
+Klassediagram_UC3.pdf>]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./main.aux)
+
+(./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13735 strings out of 493013
- 232314 string characters out of 6136993
- 320260 words of memory out of 5000000
- 17113 multiletter control sequences out of 15000+600000
+ 13754 strings out of 493013
+ 232958 string characters out of 6136993
+ 320489 words of memory out of 5000000
+ 17128 multiletter control sequences out of 15000+600000
  16692 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2521,10 +2530,10 @@ ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/fonts/type
 1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (33 pages, 329557 bytes).
+Output written on main.pdf (32 pages, 2436715 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 257 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
