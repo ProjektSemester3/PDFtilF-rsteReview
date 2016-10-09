@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,14 +1023,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
  []
 
 [2 <./WinePrep_realistisk.png>]) (./Kravspecifikation.tex [3]
-(./AktKontekst.tex <aktkontekstdiagram.pdf, id=30, 471.7625pt x 511.9125pt>
+(./AktKontekst.tex <aktkontekstdiagram.pdf, id=29, 471.7625pt x 511.9125pt>
 File: aktkontekstdiagram.pdf Graphic file (type pdf)
 
 <use aktkontekstdiagram.pdf>
 Package pdftex.def Info: aktkontekstdiagram.pdf used on input line 6.
 (pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
 ) (./Use-Cases.tex
-<usecasediagram.pdf, id=31, 471.7625pt x 481.8pt>
+<usecasediagram.pdf, id=30, 471.7625pt x 481.8pt>
 File: usecasediagram.pdf Graphic file (type pdf)
  <use usecasediagram.pdf>
 Package pdftex.def Info: usecasediagram.pdf used on input line 7.
@@ -2336,13 +2336,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
  []
 
 [15] [16] [17])) (./SystemArk.tex [18] (./SystemSekvens.tex
-<SSDUC1.pdf, id=90, 722.7pt x 602.25pt>
+<SSDUC1.pdf, id=89, 722.7pt x 602.25pt>
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
 (pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
 
-<SSDUC2.pdf, id=91, 833.1125pt x 813.0375pt>
+<SSDUC2.pdf, id=90, 833.1125pt x 813.0375pt>
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
@@ -2355,7 +2355,7 @@ Overfull \hbox (47.55524pt too wide) in paragraph at lines 16--17
 )) (./hwarkitektur.tex [19
 
  <./SSDUC1.pdf>] [20 <./SSDUC2.pdf>]
-<blockdefinitiondiagram.pdf, id=108, 1375.1375pt x 803.0pt>
+<blockdefinitiondiagram.pdf, id=107, 1375.1375pt x 803.0pt>
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
@@ -2369,7 +2369,7 @@ Overfull \hbox (43.54443pt too wide) in paragraph at lines 7--8
 [21
 
  <./blockdefinitiondiagram.pdf>] [22]
-<IBDiagram.pdf, id=120, 1324.95pt x 752.8125pt>
+<IBDiagram.pdf, id=119, 1324.95pt x 752.8125pt>
 File: IBDiagram.pdf Graphic file (type pdf)
  <use IBDiagram.pdf>
 Package pdftex.def Info: IBDiagram.pdf used on input line 45.
@@ -2431,7 +2431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 ) (./swarkitektur.tex [23 <./IBDiagram.pdf>] [24] (./CPUmatrix.tex)
 (./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex
-<SD-åbn-vinflaske-Linux-platform.pdf, id=132, 1234.6125pt x 823.075pt>
+<SD-åbn-vinflaske-Linux-platform.pdf, id=131, 1234.6125pt x 823.075pt>
 File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-åbn-vinflaske-Linux-platform.pdf>
@@ -2441,7 +2441,7 @@ Package pdftex.def Info: SD-åbn-vinflaske-Linux-platform.pdf used on input line
  [25
 
 ]
-<CD-åbn-vinflaske-Linux-platform.pdf, id=137, 963.6pt x 592.2125pt>
+<CD-åbn-vinflaske-Linux-platform.pdf, id=136, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
@@ -2449,7 +2449,7 @@ Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
  14.
 (pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
  [26 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
-m.pdf, id=147, 963.6pt x 1324.95pt>
+m.pdf, id=146, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -2462,7 +2462,7 @@ Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
  []
 
 [27 <./CD-åbn-vinflaske-Linux-platform.pdf>]
-<CD-planlaeg-åbning-Linux-platform.pdf, id=155, 963.6pt x 592.2125pt>
+<CD-planlaeg-åbning-Linux-platform.pdf, id=154, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
@@ -2473,7 +2473,7 @@ ne 31.
 
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/SD_UC3.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Applikationsmodel_UC3/SD_UC3.pdf, id=165, 597.55246pt x 845.07724pt>
+<Applikationsmodel_UC3/SD_UC3.pdf, id=164, 597.55246pt x 845.07724pt>
 File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/SD_UC3.pdf>
@@ -2485,7 +2485,7 @@ Package pdftex.def Info: Applikationsmodel_UC3/SD_UC3.pdf used on input line 39
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Statemachine_UC3.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=166, 597.55246pt x 845.07724pt>
+<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=165, 597.55246pt x 845.07724pt>
 File: Applikationsmodel_UC3/Statemachine_UC3.pdf Graphic file (type pdf)
 <use Applikationsmodel_UC3/Statemachine_UC3.pdf>
 Package pdftex.def Info: Applikationsmodel_UC3/Statemachine_UC3.pdf used on inp
@@ -2497,7 +2497,7 @@ pdf>]
 pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Klassediagram_UC3.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=190, 597.55246pt x 845.07724pt
+<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=189, 597.55246pt x 845.07724pt
 >
 File: Applikationsmodel_UC3/Klassediagram_UC3.pdf Graphic file (type pdf)
  <use Applikationsmodel_UC3/Klassediagram_UC3.pdf>
@@ -2516,13 +2516,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13760 strings out of 493013
- 233063 string characters out of 6136993
- 320539 words of memory out of 5000000
- 17131 multiletter control sequences out of 15000+600000
- 16692 words of font info for 37 fonts, out of 8000000 for 9000
+ 13762 strings out of 493013
+ 233104 string characters out of 6136993
+ 322883 words of memory out of 5000000
+ 17134 multiletter control sequences out of 15000+600000
+ 15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,44p,10438b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,44p,10438b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/
 texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2016/texmf-dist
@@ -2533,12 +2533,11 @@ fbx2488.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
 b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/fonts/type
-1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (32 pages, 2440000 bytes).
+fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on main.pdf (32 pages, 2422790 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
+ 253 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
