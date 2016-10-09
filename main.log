@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1059,7 +1059,7 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 13--44
 [] 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
@@ -1074,7 +1074,7 @@ Overfull \hbox (55.0pt too wide) in alignment at lines 49--101
  [] [] 
  []
 
-[6] [7] (./UC3.tex
+[7] (./UC3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
@@ -1094,12 +1094,7 @@ Overfull \hbox (55.0pt too wide) in paragraph at lines 3--6
 []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
-
- []
-
-(./ikke-funktionelle-krav.tex [8] [9])) (./Accepttestspecifikation.tex [10]
+[8] [9] (./ikke-funktionelle-krav.tex)) (./Accepttestspecifikation.tex [10]
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
@@ -2631,7 +2626,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  13811 strings out of 493013
  234636 string characters out of 6136993
- 323260 words of memory out of 5000000
+ 323267 words of memory out of 5000000
  17174 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2647,7 +2642,7 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (40 pages, 3734207 bytes).
+Output written on main.pdf (40 pages, 3734126 bytes).
 PDF statistics:
  411 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams

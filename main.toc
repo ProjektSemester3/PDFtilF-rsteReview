@@ -11,10 +11,10 @@
 \contentsline {section}{\numberline {2.2}Use-Cases}{5}
 \contentsline {subsection}{Use-case Diagram}{5}
 \contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vin}{6}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{6}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{7}
 \contentsline {subsection}{Use-case 3: Indstil tid}{9}
-\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{9}
-\contentsline {subsection}{Brugervenlighed}{9}
+\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{10}
+\contentsline {subsection}{Brugervenlighed}{10}
 \contentsline {subsection}{Ydelse}{10}
 \contentsline {subsection}{Vedligeholdelse}{10}
 \contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
