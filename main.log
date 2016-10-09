@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2405,7 +2405,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
-) (./swarkitektur.tex [21 <./IBDiagram.pdf>] [22] (./CPUmatrix.tex)) [23
+) (./swarkitektur.tex [21 <./IBDiagram.pdf>] [22] (./CPUmatrix.tex
+
+LaTeX Warning: Reference `CPUmatrix' on page 23 undefined on input line 3.
+
+
+LaTeX Warning: Reference `CPUmatrix' on page 23 undefined on input line 3.
+
+) (./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex)) [23
 
 ]
 \tf@toc=\write4
@@ -2414,14 +2421,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 (./main.aux)
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13677 strings out of 493013
- 230731 string characters out of 6136993
- 319950 words of memory out of 5000000
- 17069 multiletter control sequences out of 15000+600000
+ 13687 strings out of 493013
+ 231006 string characters out of 6136993
+ 319924 words of memory out of 5000000
+ 17073 multiletter control sequences out of 15000+600000
  16692 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2436,7 +2446,7 @@ rm1095.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/te
 xmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/f
 onts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (25 pages, 243499 bytes).
+Output written on main.pdf (25 pages, 246698 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams
