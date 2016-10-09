@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  9 OCT 2016 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2405,33 +2405,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
-) (./swarkitektur.tex [21 <./IBDiagram.pdf>] [22] (./CPUmatrix.tex
+) (./swarkitektur.tex [21 <./IBDiagram.pdf>] [22] (./CPUmatrix.tex)
+(./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex
+<SD-åbn-vinflaske-Linux-platform.pdf, id=123, 1234.6125pt x 823.075pt>
+File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `CPUmatrix' on page 23 undefined on input line 3.
+<use SD-åbn-vinflaske-Linux-platform.pdf>
+Package pdftex.def Info: SD-åbn-vinflaske-Linux-platform.pdf used on input line
+ 7.
+(pdftex.def)             Requested size: 493.83626pt x 329.22417pt.
 
+Overfull \hbox (124.83626pt too wide) in paragraph at lines 7--8
+[][] 
+ []
 
-LaTeX Warning: Reference `CPUmatrix' on page 23 undefined on input line 3.
+[23
 
-) (./PSoC5Applicationsmode.tex) (./DevkitApplicationsmode.tex)) [23
+] <CD-åbn-vinflaske-Linux-platform.pdf, id=128, 963.6pt x 592.2125pt>
+File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
-]
+<use CD-åbn-vinflaske-Linux-platform.pdf>
+Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
+ 14.
+(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
+ [24 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
+m.pdf, id=137, 963.6pt x 1324.95pt>
+File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+
+<use SD-planlaeg-åbning-Linux-platform.pdf>
+Package pdftex.def Info: SD-planlaeg-åbning-Linux-platform.pdf used on input li
+ne 24.
+(pdftex.def)             Requested size: 385.43317pt x 529.97061pt.
+
+Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+[25 <./CD-åbn-vinflaske-Linux-platform.pdf>]
+<CD-planlaeg-åbning-Linux-platform.pdf, id=145, 963.6pt x 592.2125pt>
+File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+
+<use CD-planlaeg-åbning-Linux-platform.pdf>
+Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
+ne 31.
+(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
+ [26 <./SD-planlaeg-åbning-Linux-platform.pdf>])) [27 <./CD-planlaeg-åbning-Lin
+ux-platform.pdf>]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-
-(./main.aux)
-
-LaTeX Warning: There were undefined references.
-
+ (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13687 strings out of 493013
- 231006 string characters out of 6136993
- 319924 words of memory out of 5000000
- 17073 multiletter control sequences out of 15000+600000
+ 13711 strings out of 493013
+ 231862 string characters out of 6136993
+ 320260 words of memory out of 5000000
+ 17093 multiletter control sequences out of 15000+600000
  16692 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10438b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2446,10 +2478,10 @@ rm1095.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/te
 xmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb><c:/texlive/2016/texmf-dist/f
 onts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (25 pages, 246698 bytes).
+Output written on main.pdf (29 pages, 257994 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 199 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
