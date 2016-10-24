@@ -3,42 +3,52 @@
 \contentsline {chapter}{\chapternumberline {1}Indledning}{1}
 \contentsline {section}{\numberline {1.1}Projektformulering}{1}
 \contentsline {subsection}{Projektdefinition}{1}
-\contentsline {section}{\numberline {1.2}Risikoanalyse}{3}
-\contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{4}
-\contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{4}
-\contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{4}
-\contentsline {paragraph}{Bruger:}{4}
-\contentsline {section}{\numberline {2.2}Use-Cases}{5}
-\contentsline {subsection}{Use-case Diagram}{5}
-\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vinflaske}{6}
-\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{7}
-\contentsline {subsection}{Use-case 3: Indstil tid}{9}
-\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{10}
-\contentsline {subsection}{Brugervenlighed}{10}
-\contentsline {subsection}{Ydelse}{10}
-\contentsline {subsection}{Vedligeholdelse}{10}
-\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
-\contentsline {section}{\numberline {3.1}Test af Use-case 1}{11}
-\contentsline {section}{\numberline {3.2}Test af use-case 2}{13}
-\contentsline {section}{\numberline {3.3}Test af Use-case 3}{15}
-\contentsline {section}{\numberline {3.4}Test ikke-funktionelle krav}{15}
-\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{19}
-\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{19}
-\contentsline {subsection}{System Sekvens Diagram for use-case 1}{19}
-\contentsline {subsection}{System Sekvens Diagram for use-case 2}{20}
-\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{21}
-\contentsline {section}{\numberline {5.1}Block Definition Diagram}{21}
-\contentsline {subsubsection}{Blok beskrivelser}{21}
-\contentsline {paragraph}{WinePrep}{21}
-\contentsline {paragraph}{Embedded Linux Platform}{22}
-\contentsline {paragraph}{PSoC 5 Platform}{22}
-\contentsline {paragraph}{Str\IeC {\o }mforsyning}{22}
-\contentsline {paragraph}{Positioneringsmekanisme}{22}
-\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{22}
-\contentsline {paragraph}{Motorstyring}{22}
-\contentsline {paragraph}{Sensor1}{22}
-\contentsline {paragraph}{Sensor2}{22}
-\contentsline {paragraph}{Motor}{22}
-\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{22}
-\contentsline {section}{\numberline {5.2}Internal Block Diagram}{23}
-\contentsline {subsection}{Signal Beskrivelser}{23}
+\contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{3}
+\contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{3}
+\contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{3}
+\contentsline {paragraph}{Bruger:}{3}
+\contentsline {section}{\numberline {2.2}Use-Cases}{4}
+\contentsline {subsection}{Use-case Diagram}{4}
+\contentsline {subsection}{Use-case 1: \IeC {\r A}bn Vinflaske}{5}
+\contentsline {subsection}{Use-case 2: Planl\IeC {\ae }g \IeC {\r A}bning}{6}
+\contentsline {subsection}{Use-case 3: Indstil tid}{8}
+\contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{9}
+\contentsline {subsection}{Brugervenlighed}{9}
+\contentsline {subsection}{Ydelse}{9}
+\contentsline {subsection}{Vedligeholdelse}{9}
+\contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{10}
+\contentsline {section}{\numberline {3.1}Test af Use-case 1}{10}
+\contentsline {section}{\numberline {3.2}Test af use-case 2}{12}
+\contentsline {section}{\numberline {3.3}Test af Use-case 3}{14}
+\contentsline {section}{\numberline {3.4}Test ikke-funktionelle krav}{14}
+\contentsline {chapter}{\chapternumberline {4}System Arkitektur}{18}
+\contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{18}
+\contentsline {subsection}{System Sekvens Diagram for use-case 1}{18}
+\contentsline {subsection}{System Sekvens Diagram for use-case 2}{19}
+\contentsline {chapter}{\chapternumberline {5}Hardware Arkitektur}{20}
+\contentsline {section}{\numberline {5.1}Block Definition Diagram}{20}
+\contentsline {subsubsection}{Blok beskrivelser}{20}
+\contentsline {paragraph}{WinePrep}{20}
+\contentsline {paragraph}{Embedded Linux Platform}{21}
+\contentsline {paragraph}{PSoC 5 Platform}{21}
+\contentsline {paragraph}{Str\IeC {\o }mforsyning}{21}
+\contentsline {paragraph}{Positioneringsmekanisme}{21}
+\contentsline {paragraph}{\IeC {\r A}bningsmekanisme}{21}
+\contentsline {paragraph}{Motorstyring}{21}
+\contentsline {paragraph}{Sensor1}{21}
+\contentsline {paragraph}{Sensor2}{21}
+\contentsline {paragraph}{Motor}{21}
+\contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{21}
+\contentsline {section}{\numberline {5.2}Internal Block Diagram}{22}
+\contentsline {subsection}{Signal Beskrivelser}{22}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{23}
+\contentsline {section}{\numberline {6.1}CPU matrix}{23}
+\contentsline {section}{\numberline {6.2}UC1: \IeC {\r A}bn vinflaske}{24}
+\contentsline {subsection}{Linux Platform / DevKit8000}{24}
+\contentsline {subsection}{PSoC 5}{26}
+\contentsline {section}{\numberline {6.3}UC2: Planl\IeC {\ae }g \IeC {\r a}bning}{28}
+\contentsline {subsection}{Linux Platform / DevKit8000}{28}
+\contentsline {subsection}{PSoC 5}{30}
+\contentsline {section}{\numberline {6.4}UC3: Indstil tid}{32}
+\contentsline {subsection}{Linux Platform / DevKit8000}{32}
+\contentsline {subsection}{Sekvensdiagrammer der anvendes i applikationsmodel for PSoC 5}{33}
