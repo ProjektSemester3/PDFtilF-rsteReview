@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.23)  23 OCT 2016 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.23)  24 OCT 2016 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,12 +910,6 @@ LaTeX Warning: Label `ATUC1:Hovedscenarie' multiply defined.
 
 LaTeX Warning: Label `ATUC1:Ext1' multiply defined.
 
-
-LaTeX Warning: Label `SD:PSoC:ScanX' multiply defined.
-
-
-LaTeX Warning: Label `SD:PSoC:ScanX' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -1016,20 +1010,20 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 File: WinePrep_realistisk.png Graphic file (type png)
 
 <use WinePrep_realistisk.png>
-Package pdftex.def Info: WinePrep_realistisk.png used on input line 36.
+Package pdftex.def Info: WinePrep_realistisk.png used on input line 35.
 (pdftex.def)             Requested size: 379.05907pt x 163.33144pt.
 
-Overfull \hbox (10.05907pt too wide) in paragraph at lines 36--37
+Overfull \hbox (10.05907pt too wide) in paragraph at lines 35--36
 [][] 
  []
 
-) (./Risiko-analyse.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
+) (./Risikoanalyse.tex [2 <./WinePrep_realistisk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
 []|\T1/cmr/bx/n/10.95 Risk-
  []
 
-[2 <./WinePrep_realistisk.png>]) (./Kravspecifikation.tex [3]
-(./AktKontekst.tex <aktkontekstdiagram.pdf, id=29, 471.7625pt x 511.9125pt>
+) (./Kravspecifikation.tex [3] (./AktKontekst.tex
+<aktkontekstdiagram.pdf, id=29, 471.7625pt x 511.9125pt>
 File: aktkontekstdiagram.pdf Graphic file (type pdf)
 
 <use aktkontekstdiagram.pdf>
@@ -1537,67 +1531,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  []
 
 
+Underfull \hbox (badness 2103) in paragraph at lines 23--23
+[]|\T1/cmr/m/n/10.95 Ændre mi-nut-ter til
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/cmr/m/n/10.95 Bekræftelsesknappen
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 24--24
-[]|\T1/cmr/m/n/10.95 Ændre mi-nut-ter til
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-[]|\T1/cmr/m/n/10.95 Bekræftelsesknappen
- []
-
-
-Underfull \hbox (badness 2401) in paragraph at lines 25--25
+Underfull \hbox (badness 2401) in paragraph at lines 24--24
 []|\T1/cmr/m/n/10.95 Tryk på be-kræf-tel-
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 8--28
+Overfull \hbox (55.0pt too wide) in paragraph at lines 8--27
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--28
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 8--27
  [] 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 45--45
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 44--44
 \T1/cmr/bx/n/10.95 tion/resultat| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 35--50
+Overfull \hbox (55.0pt too wide) in paragraph at lines 34--49
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 35--50
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 34--49
  [] 
  []
 
@@ -2292,18 +2281,28 @@ Underfull \hbox (badness 6364) in paragraph at lines 29--29
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 29--29
-[]|\T1/cmr/m/n/10.95 Der kig-ges
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T1/cmr/m/n/10.95 Koden
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]|\T1/cmr/m/n/10.95 Koden er
+\T1/cmr/m/n/10.95 kom-pile-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-\T1/cmr/m/n/10.95 skre-vet i
+\T1/cmr/m/n/10.95 tes med
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\T1/cmr/m/n/10.95 en c/c++
+ []
+
+
+Overfull \hbox (12.35153pt too wide) in paragraph at lines 29--29
+[]|\T1/cmr/m/n/10.95 Kompileringen
  []
 
 
@@ -2440,15 +2439,19 @@ Overfull \hbox (43.54443pt too wide) in paragraph at lines 7--8
 [21
 
  <./blockdefinitiondiagram.pdf>] [22]
-<IBDiagram.pdf, id=119, 1324.95pt x 752.8125pt>
-File: IBDiagram.pdf Graphic file (type pdf)
- <use IBDiagram.pdf>
-Package pdftex.def Info: IBDiagram.pdf used on input line 45.
-(pdftex.def)             Requested size: 397.48807pt x 225.84549pt.
 
-Overfull \hbox (28.48807pt too wide) in paragraph at lines 45--46
- [][] 
- []
+! LaTeX Error: File `IBDiagram' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 	\includegraphics[scale=0.3]{IBDiagram}
+                                            
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
@@ -2500,222 +2503,2062 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
-) (./swarkitektur.tex [23 <./IBDiagram.pdf>] [24] (./CPUmatrix.tex)
-(./PSoC5Applicationsmode.tex
-<APPSoC/SD-Gaa-til-position-v1.pdf, id=131, 1653.92906pt x 2281.02188pt>
-File: APPSoC/SD-Gaa-til-position-v1.pdf Graphic file (type pdf)
+) (./swarkitektur.tex [23] (./CPUmatrix.tex
 
-<use APPSoC/SD-Gaa-til-position-v1.pdf>
-Package pdftex.def Info: APPSoC/SD-Gaa-til-position-v1.pdf used on input line 1
-2.
-(pdftex.def)             Requested size: 188.54639pt x 661.47942pt.
- [25
-
-]
-Overfull \vbox (86.60779pt too high) has occurred while \output is active []
+LaTeX Warning: Reference `CPUmatrix' on page 24 undefined on input line 3.
 
 
-[26 <./APPSoC/SD-Gaa-til-position-v1.pdf>]
-<APPSoC/SD-Scan-x-aksen.pdf, id=152, 1653.92906pt x 1158.57843pt>
-File: APPSoC/SD-Scan-x-aksen.pdf Graphic file (type pdf)
+LaTeX Warning: Reference `CPUmatrix' on page 24 undefined on input line 3.
 
-<use APPSoC/SD-Scan-x-aksen.pdf>
-Package pdftex.def Info: APPSoC/SD-Scan-x-aksen.pdf used on input line 18.
-(pdftex.def)             Requested size: 421.411pt x 292.31703pt.
+)
 
-Overfull \hbox (52.411pt too wide) in paragraph at lines 18--19
+! Package inputenc Error: Unicode char ære (U+DD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...i zip filen i mappen APPSoC, da de kan være
+                                                   meget svære at læse efter...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char ære (U+DD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...i mappen APPSoC, da de kan være meget svære
+                                                   at læse efter, at de er b...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char æse (U+DE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... APPSoC, da de kan være meget svære at læse
+                                                   efter, at de er blevet sk...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `UTF8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ore, er de opdelt i mindre bidder for at gø
+                                                  re de overordnede diagramm...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Unicode char åsi (U+E1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...sdiagrammerne for UC1 og UC2, kan ses på si
+                                                  de \pageref{SD:PSoC:GaaTil...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Reference `SD:PSoC:GaaTilPos' on page 24 undefined on input line
+ 7.
+
+(./ApplikationsmodelUC1.tex
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{UC1: Åbn vinflaske}
+                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...sediagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...sediagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...sediagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...sediagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.7 ...cale=0.35]{CD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.7 ...cale=0.35]{CD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.7 ...cale=0.35]{CD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.7 ...cale=0.35]{CD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.7 ...cale=0.35]{CD-åbn-vinflaske-Linux-platform}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.8 \end{figure}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 \end{figure}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (307.9458pt too wide) in paragraph at lines 7--8
 [][] 
  []
 
-<APPSoC/SD-Scan-y-aksen.pdf, id=154, 1653.92906pt x 1158.57843pt>
-File: APPSoC/SD-Scan-y-aksen.pdf Graphic file (type pdf)
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.8 \end{figure}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-<use APPSoC/SD-Scan-y-aksen.pdf>
-Package pdftex.def Info: APPSoC/SD-Scan-y-aksen.pdf used on input line 24.
-(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
 
-Overfull \hbox (52.411pt too wide) in paragraph at lines 24--25
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...sdiagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...sdiagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...sdiagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...sdiagram UC1: Åbn vinflaske på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.13 ... 0, clip]{SD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.13 ... 0, clip]{SD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.13 ... 0, clip]{SD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.13 ... 0, clip]{SD-åbn-vinflaske-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.13 ... 0, clip]{SD-åbn-vinflaske-Linux-platform}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.14 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (307.9458pt too wide) in paragraph at lines 13--14
 [][] 
  []
 
-[27 <./APPSoC/SD-Scan-x-aksen.pdf>]
-<APPSoC/SD-Scan-z-aksen.pdf, id=175, 1653.92906pt x 1158.57843pt>
-File: APPSoC/SD-Scan-z-aksen.pdf Graphic file (type pdf)
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.14 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-<use APPSoC/SD-Scan-z-aksen.pdf>
-Package pdftex.def Info: APPSoC/SD-Scan-z-aksen.pdf used on input line 30.
-(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
 
-Overfull \hbox (52.411pt too wide) in paragraph at lines 30--31
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...lassediagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...lassediagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...lassediagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...lassediagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<APPSoC/UC1-CD-Aaben-nu-PSoC.pdf, id=123, 1074.0125pt x 923.45pt>
+File: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf Graphic file (type pdf)
+
+<use APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>
+Package pdftex.def Info: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf used on input line 20.
+
+(pdftex.def)             Requested size: 375.91pt x 323.21234pt.
+
+Overfull \hbox (6.91pt too wide) in paragraph at lines 20--21
 [][] 
  []
 
-[28 <./APPSoC/SD-Scan-y-aksen.pdf>]
-<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=195, 2462.44969pt x 2842.62pt>
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...kvensdiagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...kvensdiagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char Åb (U+67)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...kvensdiagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...kvensdiagram UC1: Åbn vinflaske på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=125, 2462.44969pt x 2842.62pt>
 File: APPSoC/UC1-Aaben-nu-v1-simplified.pdf Graphic file (type pdf)
 
 <use APPSoC/UC1-Aaben-nu-v1-simplified.pdf>
 Package pdftex.def Info: APPSoC/UC1-Aaben-nu-v1-simplified.pdf used on input li
-ne 38.
+ne 26.
 (pdftex.def)             Requested size: 492.48122pt x 568.51393pt.
 
-Overfull \hbox (123.48122pt too wide) in paragraph at lines 38--39
+Overfull \hbox (123.48122pt too wide) in paragraph at lines 26--27
 [][] 
  []
 
-[29 <./APPSoC/SD-Scan-z-aksen.pdf>]
-Overfull \vbox (25.04692pt too high) has occurred while \output is active []
+) (./ApplikationsmodelUC2.tex
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
-[30 <./APPSoC/UC1-Aaben-nu-v1-simplified.pdf>]
-<APPSoC/UC1-CD-Aaben-nu-PSoC.pdf, id=242, 1074.0125pt x 923.45pt>
-File: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf Graphic file (type pdf)
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
 
-<use APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>
-Package pdftex.def Info: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf used on input line 46.
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
 
-(pdftex.def)             Requested size: 375.91pt x 323.21234pt.
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `<', `=', or `>'. Didn't.
 
-Overfull \hbox (6.91pt too wide) in paragraph at lines 46--47
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{UC2: Planlæg åbning}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.1 \section{UC2: Planlæg åbning}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Extra \else.
+\M@sect ...{\csname the#1\endcsname }\fi #7}\else 
+                                                  \def \@svsechd {#6{\hskip ...
+l.1 \section{UC2: Planlæg åbning}
+                                 
+I'm ignoring this; it doesn't match any \if.
+
+
+! Package inputenc Error: Unicode char åse (U+DD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Enkelte extensions er udeladt på se
+                                       kvensdiagrammet, da de blot resultere...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \else.
+\@@makecaption ...font #2\@contfinal \par } \else 
+                                                  \if@conthang \sbox \@tempb...
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ediagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.10 ...e=0.35]{CD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.10 ...e=0.35]{CD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.10 ...e=0.35]{CD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.10 ...e=0.35]{CD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.10 ...e=0.35]{CD-planlaeg-åbning-Linux-platform}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.11 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (307.9458pt too wide) in paragraph at lines 10--11
 [][] 
  []
 
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.11 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=244, 2462.44969pt x 3404.218
-12pt>
-File: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf Graphic file (type pdf)
- <use APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>
-Package pdftex.def Info: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf used on 
-input line 55.
-(pdftex.def)             Requested size: 443.22183pt x 612.73283pt.
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
 
-Overfull \hbox (74.22183pt too wide) in paragraph at lines 55--56
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \else.
+\@@makecaption ...font #2\@contfinal \par } \else 
+                                                  \if@conthang \sbox \@tempb...
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...diagram UC2: Planlæg åbning på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.16 ...le=0.4]{SD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.16 ...le=0.4]{SD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.16 ...le=0.4]{SD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.16 ...le=0.4]{SD-planlaeg-åbning-Linux-platform}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.16 ...le=0.4]{SD-planlaeg-åbning-Linux-platform}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.17 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.17 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (307.9458pt too wide) in paragraph at lines 16--17
 [][] 
  []
 
-[31 <./APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>]
-Overfull \vbox (69.26582pt too high) has occurred while \output is active []
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.17 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
-[32 <./APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>]
-<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=280, 1074.0125pt x 923.45pt>
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \else.
+\@@makecaption ...font #2\@contfinal \par } \else 
+                                                  \if@conthang \sbox \@tempb...
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...assediagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=127, 1074.0125pt x 923.45pt>
 File: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf Graphic file (type pdf)
 
 <use APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>
 Package pdftex.def Info: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf used on input 
-line 63.
+line 23.
 (pdftex.def)             Requested size: 375.91pt x 323.21234pt.
 
-Overfull \hbox (6.91pt too wide) in paragraph at lines 63--64
+Overfull \hbox (6.91pt too wide) in paragraph at lines 23--24
 [][] 
  []
 
-) (./DevkitApplicationsmode.tex
-<SD-åbn-vinflaske-Linux-platform.pdf, id=282, 1234.6125pt x 823.075pt>
-File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
 
-<use SD-åbn-vinflaske-Linux-platform.pdf>
-Package pdftex.def Info: SD-åbn-vinflaske-Linux-platform.pdf used on input line
- 7.
-(pdftex.def)             Requested size: 353.3134pt x 329.22417pt.
- [33 <./APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>]
-<CD-åbn-vinflaske-Linux-platform.pdf, id=293, 963.6pt x 592.2125pt>
-File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
 
-<use CD-åbn-vinflaske-Linux-platform.pdf>
-Package pdftex.def Info: CD-åbn-vinflaske-Linux-platform.pdf used on input line
- 14.
-(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [34 <./SD-åbn-vinflaske-Linux-platform.pdf>] <SD-planlaeg-åbning-Linux-platfor
-m.pdf, id=303, 963.6pt x 1324.95pt>
-File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
 
-<use SD-planlaeg-åbning-Linux-platform.pdf>
-Package pdftex.def Info: SD-planlaeg-åbning-Linux-platform.pdf used on input li
-ne 24.
-(pdftex.def)             Requested size: 385.43317pt x 529.97061pt.
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-Overfull \hbox (16.43317pt too wide) in paragraph at lines 24--25
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \else.
+\@@makecaption ...font #2\@contfinal \par } \else 
+                                                  \if@conthang \sbox \@tempb...
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing ) inserted for expression.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Package inputenc Error: Unicode char ægå (U+)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åPS (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...vensdiagram UC2: Planlæg åbning på PSoC 5}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=129, 2462.44969pt x 3404.218
+12pt>
+File: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf Graphic file (type pdf)
+ <use APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>
+Package pdftex.def Info: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf used on 
+input line 29.
+(pdftex.def)             Requested size: 443.22183pt x 612.73283pt.
+
+Overfull \hbox (74.22183pt too wide) in paragraph at lines 29--30
 [][] 
  []
 
-[35 <./CD-åbn-vinflaske-Linux-platform.pdf>]
-<CD-planlaeg-åbning-Linux-platform.pdf, id=312, 963.6pt x 592.2125pt>
-File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
+) (./ApplikationsmodelUC3.tex
 
-<use CD-planlaeg-åbning-Linux-platform.pdf>
-Package pdftex.def Info: CD-planlaeg-åbning-Linux-platform.pdf used on input li
-ne 31.
-(pdftex.def)             Requested size: 337.26506pt x 207.27747pt.
- [36 <./SD-planlaeg-åbning-Linux-platform.pdf>]
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
 
-pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/SD_UC3.pdf): PDF inc
-lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Applikationsmodel_UC3/SD_UC3.pdf, id=321, 597.55246pt x 845.07724pt>
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...assediagram UC3: Indstil tid på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...assediagram UC3: Indstil tid på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Applikationsmodel_UC3/cd_UC3.pdf, id=131, 662.475pt x 642.4pt>
+File: Applikationsmodel_UC3/cd_UC3.pdf Graphic file (type pdf)
+
+<use Applikationsmodel_UC3/cd_UC3.pdf>
+Package pdftex.def Info: Applikationsmodel_UC3/cd_UC3.pdf used on input line 7.
+
+(pdftex.def)             Requested size: 331.2399pt x -96.36191pt.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ensdiagram UC3: Indstil tid på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char åDe (U+AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ensdiagram UC3: Indstil tid på DevKit8000}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Applikationsmodel_UC3/SD_UC3.pdf, id=132, 1214.5375pt x 1003.75pt>
 File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/SD_UC3.pdf>
-Package pdftex.def Info: Applikationsmodel_UC3/SD_UC3.pdf used on input line 39
+Package pdftex.def Info: Applikationsmodel_UC3/SD_UC3.pdf used on input line 13
 .
-(pdftex.def)             Requested size: 292.28607pt x 266.14781pt.
+(pdftex.def)             Requested size: 662.47997pt x 361.3522pt.
+
+Overfull \hbox (293.47997pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
+) (./ApplikationsmodelPSoC5.tex
+
+! Package inputenc Error: Unicode char åti (U+E2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...vensdiagram for funktionen Gå til position}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Statemachine_UC3.pdf
-): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+! Package inputenc Error: Unicode char åti (U+E2)
+(inputenc)                not set up for use with LaTeX.
 
-<Applikationsmodel_UC3/Statemachine_UC3.pdf, id=322, 597.55246pt x 845.07724pt>
-File: Applikationsmodel_UC3/Statemachine_UC3.pdf Graphic file (type pdf)
-<use Applikationsmodel_UC3/Statemachine_UC3.pdf>
-Package pdftex.def Info: Applikationsmodel_UC3/Statemachine_UC3.pdf used on inp
-ut line 45.
-(pdftex.def)             Requested size: 340.99545pt x 169.97688pt.
- [37 <./CD-planlaeg-åbning-Linux-platform.pdf> <./Applikationsmodel_UC3/SD_UC3.
-pdf>]
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...vensdiagram for funktionen Gå til position}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-pdfTeX warning: pdflatex.exe (file ./Applikationsmodel_UC3/Klassediagram_UC3.pd
-f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<APPSoC/SD-Gaa-til-position-v1.pdf, id=133, 1653.92906pt x 2281.02188pt>
+File: APPSoC/SD-Gaa-til-position-v1.pdf Graphic file (type pdf)
 
-<Applikationsmodel_UC3/Klassediagram_UC3.pdf, id=345, 597.55246pt x 845.07724pt
->
-File: Applikationsmodel_UC3/Klassediagram_UC3.pdf Graphic file (type pdf)
- <use Applikationsmodel_UC3/Klassediagram_UC3.pdf>
-Package pdftex.def Info: Applikationsmodel_UC3/Klassediagram_UC3.pdf used on in
-put line 52.
-(pdftex.def)             Requested size: 292.28607pt x 25.24536pt.
-)) [38 <./Applikationsmodel_UC3/Statemachine_UC3.pdf> <./Applikationsmodel_UC3/
-Klassediagram_UC3.pdf>]
+<use APPSoC/SD-Gaa-til-position-v1.pdf>
+Package pdftex.def Info: APPSoC/SD-Gaa-til-position-v1.pdf used on input line 5
+.
+(pdftex.def)             Requested size: 188.54639pt x 661.47942pt.
+
+<APPSoC/SD-Scan-x-aksen.pdf, id=134, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-x-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-x-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-x-aksen.pdf used on input line 11.
+(pdftex.def)             Requested size: 421.411pt x 292.31703pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+<APPSoC/SD-Scan-y-aksen.pdf, id=136, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-y-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-y-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-y-aksen.pdf used on input line 17.
+(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 17--18
+[][] 
+ []
+
+<APPSoC/SD-Scan-z-aksen.pdf, id=138, 1653.92906pt x 1158.57843pt>
+File: APPSoC/SD-Scan-z-aksen.pdf Graphic file (type pdf)
+
+<use APPSoC/SD-Scan-z-aksen.pdf>
+Package pdftex.def Info: APPSoC/SD-Scan-z-aksen.pdf used on input line 23.
+(pdftex.def)             Requested size: 421.411pt x 306.87106pt.
+
+Overfull \hbox (52.411pt too wide) in paragraph at lines 23--24
+[][] 
+ []
+
+))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 
+
+! LaTeX Error: \begin{figure} on input line 13 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
- ) 
+! You can't use `\end' in internal vertical mode.
+\enddocument ... \endgroup \deadcycles \z@ \@@end 
+                                                  
+l.32 \end{document}
+                   
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{figure} on input line 13 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.32 \end{document}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> ./main.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 13811 strings out of 493013
- 234636 string characters out of 6136993
- 323274 words of memory out of 5000000
- 17174 multiletter control sequences out of 15000+600000
+ 13804 strings out of 493013
+ 233695 string characters out of 6136993
+ 335069 words of memory out of 5000000
+ 17150 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,44p,10438b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2016/texmf-dist
-/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1440.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-cm-super/sfbx2074.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/s
-fbx2488.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
-ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (40 pages, 3734400 bytes).
-PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 281 compressed objects within 3 object streams
- 0 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 51i,12n,44p,10438b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

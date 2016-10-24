@@ -3,7 +3,7 @@
 \contentsline {chapter}{\chapternumberline {1}Indledning}{1}
 \contentsline {section}{\numberline {1.1}Projektformulering}{1}
 \contentsline {subsection}{Projektdefinition}{1}
-\contentsline {section}{\numberline {1.2}Risiko Analyse}{3}
+\contentsline {section}{\numberline {1.2}Risikoanalyse}{3}
 \contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{4}
 \contentsline {section}{\numberline {2.1}Akt\IeC {\o }r-Kontekst}{4}
 \contentsline {subsection}{Akt\IeC {\o }r Beskrivelser}{4}
@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {3.1}Test af Use-case 1}{11}
 \contentsline {section}{\numberline {3.2}Test af use-case 2}{13}
 \contentsline {section}{\numberline {3.3}Test af Use-case 3}{15}
-\contentsline {section}{\numberline {3.4}Accepttest ikke-funktionelle krav}{16}
+\contentsline {section}{\numberline {3.4}Test ikke-funktionelle krav}{15}
 \contentsline {chapter}{\chapternumberline {4}System Arkitektur}{19}
 \contentsline {section}{\numberline {4.1}System Sekvens Diagrammer}{19}
 \contentsline {subsection}{System Sekvens Diagram for use-case 1}{19}
@@ -41,14 +41,4 @@
 \contentsline {paragraph}{Motor}{22}
 \contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{22}
 \contentsline {section}{\numberline {5.2}Internal Block Diagram}{23}
-\contentsline {subsection}{Signal Beskrivelser}{24}
-\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{25}
-\contentsline {section}{\numberline {6.1}CPU matrix}{25}
-\contentsline {section}{\numberline {6.2}PSoC 5 Applikationsmodel}{25}
-\contentsline {subsection}{Sekvensdiagrammer der anvendes i Applikationsmodel for use-case 1 og 2}{25}
-\contentsline {subsection}{Applikationsmodel for use-case 1}{30}
-\contentsline {subsection}{Applikationsmodel for use-case 2}{32}
-\contentsline {section}{\numberline {6.3}Linux Platform / Devkit 8000 Applikationsmodel}{34}
-\contentsline {subsection}{Applikationsmodel use-case 1}{34}
-\contentsline {subsection}{Applikationsmodel use-case 2}{35}
-\contentsline {subsection}{Applikationsmodel use-case 3}{37}
+\contentsline {subsection}{Signal Beskrivelser}{23}
