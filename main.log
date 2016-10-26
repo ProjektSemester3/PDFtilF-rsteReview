@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  26 OCT 2016 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  26 OCT 2016 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1211,7 +1211,7 @@ Package babel Info: Redefining danish shorthand "~
 <usecasediagram.pdf, id=144, 471.7625pt x 481.8pt>
 File: usecasediagram.pdf Graphic file (type pdf)
  <use usecasediagram.pdf>
-Package pdftex.def Info: usecasediagram.pdf used on input line 7.
+Package pdftex.def Info: usecasediagram.pdf used on input line 8.
 (pdftex.def)             Requested size: 235.88066pt x 240.8994pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
@@ -1226,59 +1226,59 @@ Package babel Info: Redefining danish shorthand "~
 
  <./aktkontekstdiagram.pdf>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 12.
  [4 <./usecasediagram.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
 
 
-Overfull \hbox (30.49487pt too wide) in paragraph at lines 32--32
+Overfull \hbox (30.49487pt too wide) in paragraph at lines 35--35
 []|\T1/cmr/bx/n/10.95 Udvidelser/Undtagelser| 
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 13--44
+Overfull \hbox (55.0pt too wide) in paragraph at lines 15--47
 [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 49.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
 
 
-Overfull \hbox (30.49487pt too wide) in paragraph at lines 78--78
+Overfull \hbox (30.49487pt too wide) in paragraph at lines 71--71
 []|\T1/cmr/bx/n/10.95 Udvidelser/Undtagelser| 
  []
 
 
-Overfull \hbox (55.0pt too wide) in alignment at lines 49--101
+Overfull \hbox (55.0pt too wide) in alignment at lines 52--94
  [] [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 94.
 [6] (./UC3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
@@ -1365,8 +1365,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 22--26
-[]|\T1/cmr/m/n/10.95 Vinflasken åb-nes af
+Underfull \hbox (badness 3260) in paragraph at lines 22--26
+[]|\T1/cmr/m/n/10.95 Vinflasken lå-ses og
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 22--26
+\T1/cmr/m/n/10.95 åb-nes af sy-ste-met,
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 22--26
+\T1/cmr/m/n/10.95 og bru-ger med-del-es
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 22--26
+\T1/cmr/m/n/10.95 via bru-ger-græn-se-fla-
  []
 
 
@@ -1385,362 +1400,357 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]|\T1/cmr/bx/n/10.95 Faktisk
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-\T1/cmr/bx/n/10.95 ob-ser-va-
- []
-
-
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 46--46
-\T1/cmr/bx/n/10.95 tion/resultat| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-[]|\T1/cmr/bx/n/10.95 Vurdering
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--54
-[]|\T1/cmr/m/n/10.95 System med-del-er
- []
-
-
-Underfull \hbox (badness 5985) in paragraph at lines 48--54
-\T1/cmr/m/n/10.95 bru-ger via bru-ger-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--54
-\T1/cmr/m/n/10.95 græn-se-fla-den at
- []
-
-
-Overfull \hbox (55.0pt too wide) in paragraph at lines 36--57
+Overfull \hbox (55.0pt too wide) in paragraph at lines 36--45
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 36--57
- [] 
- []
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
-[10
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-[]|\T1/cmr/bx/n/10.95 Use-case un-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 74--74
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 47--47
 \T1/cmr/bx/n/10.95 tion/resultat| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 []|\T1/cmr/m/n/10.95 System med-del-er
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 76--79
+Underfull \hbox (badness 5985) in paragraph at lines 49--53
 \T1/cmr/m/n/10.95 bru-ger via bru-ger-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 \T1/cmr/m/n/10.95 græn-se-fla-den at
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 76--79
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\T1/cmr/m/n/10.95 vin-fla-sken er af
+ []
+
+
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 46--56
+ [][] 
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 57.
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T1/cmr/bx/n/10.95 Use-case un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\T1/cmr/bx/n/10.95 Faktisk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/cmr/bx/n/10.95 ob-ser-va-
+ []
+
+
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 73--73
+\T1/cmr/bx/n/10.95 tion/resultat| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+[]|\T1/cmr/m/n/10.95 System med-del-er
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 75--78
+\T1/cmr/m/n/10.95 bru-ger via bru-ger-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+\T1/cmr/m/n/10.95 græn-se-fla-den at
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 75--78
 \T1/cmr/m/n/10.95 in-gen vin-fla-ske kan
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 64--82
+Overfull \hbox (55.0pt too wide) in paragraph at lines 63--81
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 64--82
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 63--81
  [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 101--101
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 100--100
 \T1/cmr/bx/n/10.95 tion/resultat| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 102--102
-[]|\T1/cmr/m/n/10.95 Undermenuen \T1/cmr/m/it/10.95 Plan-
+Underfull \hbox (badness 6364) in paragraph at lines 101--101
+[]|\T1/cmr/m/n/10.95 Undermenuen plan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []|\T1/cmr/m/n/10.95 Indstil på bru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \T1/cmr/m/n/10.95 ger-græn-se-fla-den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 []|\T1/cmr/m/n/10.95 Hovedmenuen vi-
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 104--104
+Underfull \hbox (badness 7099) in paragraph at lines 103--103
 \T1/cmr/m/n/10.95 ses og det valg-te
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 \T1/cmr/m/n/10.95 klok-keslæt vi-ses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\T1/cmr/m/n/10.95 i \T1/cmr/m/it/10.95 Ak-tu-el in-fo \T1/cmr/m/n/10.95 på
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\T1/cmr/m/n/10.95 i ak-tu-el in-fo på
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]|\T1/cmr/m/n/10.95 System med-del-er
+Underfull \hbox (badness 4205) in paragraph at lines 104--104
+[]|\T1/cmr/m/n/10.95 Vinflasken er åben
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 105--105
-\T1/cmr/m/n/10.95 bru-ger via bru-ger-
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 105--105
+Underfull \hbox (badness 1231) in paragraph at lines 104--104
 \T1/cmr/m/n/10.95 græn-se-fla-den om at
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 91--108
+Overfull \hbox (55.0pt too wide) in paragraph at lines 90--107
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 91--108
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 90--107
  [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 108.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 108.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 108.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 108.
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 125--125
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 124--124
 \T1/cmr/bx/n/10.95 tion/resultat| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 115--130
+Overfull \hbox (55.0pt too wide) in paragraph at lines 114--129
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 115--130
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 114--129
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 147--147
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 146--146
 \T1/cmr/bx/n/10.95 tion/resultat| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[]|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
-[]|\T1/cmr/bx/n/10.95 Vurdering
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
 []|\T1/cmr/m/n/10.95 System med-del-er
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 148--149
+Underfull \hbox (badness 3690) in paragraph at lines 147--148
 \T1/cmr/m/n/10.95 bru-ger om at den
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 148--149
+Underfull \hbox (badness 4505) in paragraph at lines 147--148
 \T1/cmr/m/n/10.95 indstil-le-de tid ik-ke
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 148--149
+Underfull \hbox (badness 1127) in paragraph at lines 147--148
 \T1/cmr/m/n/10.95 vi-nen er drik-ke-klar,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 \T1/cmr/m/n/10.95 og be-der bru-ger
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 150--151
-[]|\T1/cmr/m/n/10.95 Undermenuen \T1/cmr/m/it/10.95 Plan-
+Underfull \hbox (badness 6364) in paragraph at lines 149--150
+[]|\T1/cmr/m/n/10.95 Undermenuen plan-
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 137--153
+Overfull \hbox (55.0pt too wide) in paragraph at lines 136--152
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 137--153
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 136--152
  [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 154.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 154.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 154.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 154.
+(babel)             in language  on input line 153.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
 []|\T1/cmr/bx/n/10.95 Use-case un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []|\T1/cmr/bx/n/10.95 Faktisk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 \T1/cmr/bx/n/10.95 ob-ser-va-
  []
 
 
-Overfull \hbox (2.81421pt too wide) in paragraph at lines 172--172
+Overfull \hbox (2.81421pt too wide) in paragraph at lines 171--171
 \T1/cmr/bx/n/10.95 tion/resultat| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 173--174
+Underfull \hbox (badness 1478) in paragraph at lines 172--173
 \T1/cmr/m/n/10.95 via bru-ger-græn-se-fla-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
-[]|\T1/cmr/m/n/10.95 Hovedmenuen vi-ses
- []
-
-
-Overfull \hbox (55.0pt too wide) in paragraph at lines 162--178
+Overfull \hbox (55.0pt too wide) in paragraph at lines 161--177
  [][] 
  []
 
 
-Overfull \hbox (53.79999pt too wide) in paragraph at lines 162--178
+Overfull \hbox (53.79999pt too wide) in paragraph at lines 161--177
  [] 
  []
 
@@ -2748,13 +2758,13 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<SSDUC1.pdf, id=276, 722.7pt x 602.25pt>
+<SSDUC1.pdf, id=271, 722.7pt x 602.25pt>
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
 (pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
 
-<SSDUC2.pdf, id=277, 833.1125pt x 813.0375pt>
+<SSDUC2.pdf, id=272, 833.1125pt x 813.0375pt>
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
@@ -2794,7 +2804,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 3.
 
-<blockdefinitiondiagram.pdf, id=300, 1375.1375pt x 803.0pt>
+<blockdefinitiondiagram.pdf, id=296, 1375.1375pt x 803.0pt>
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
@@ -2904,7 +2914,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<CD-åbn-vinflaske-Linux-platform.pdf, id=338, 963.6pt x 592.2125pt>
+<CD-åbn-vinflaske-Linux-platform.pdf, id=334, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
@@ -2922,7 +2932,7 @@ Package babel Info: Redefining danish shorthand "~
  [23
 
 ]
-<SD-åbn-vinflaske-Linux-platform.pdf, id=346, 1234.6125pt x 823.075pt>
+<SD-åbn-vinflaske-Linux-platform.pdf, id=342, 1234.6125pt x 823.075pt>
 File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-åbn-vinflaske-Linux-platform.pdf>
@@ -2938,7 +2948,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 15.
  [24 <./CD-åbn-vinflaske-Linux-platform.pdf>] <APPSoC/UC1-CD-Aaben-nu-PSoC.pdf,
- id=358, 1074.0125pt x 923.45pt>
+ id=354, 1074.0125pt x 923.45pt>
 File: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf Graphic file (type pdf)
 
 <use APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>
@@ -2959,7 +2969,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
 [25 <./SD-åbn-vinflaske-Linux-platform.pdf>]
-<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=371, 2462.44969pt x 2842.62pt>
+<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=367, 2462.44969pt x 2842.62pt>
 File: APPSoC/UC1-Aaben-nu-v1-simplified.pdf Graphic file (type pdf)
 
 <use APPSoC/UC1-Aaben-nu-v1-simplified.pdf>
@@ -2986,7 +2996,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<CD-planlaeg-åbning-Linux-platform.pdf, id=384, 963.6pt x 592.2125pt>
+<CD-planlaeg-åbning-Linux-platform.pdf, id=380, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
@@ -3002,7 +3012,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
  [27 <./APPSoC/UC1-Aaben-nu-v1-simplified.pdf>]
-<SD-planlaeg-åbning-Linux-platform.pdf, id=414, 963.6pt x 1324.95pt>
+<SD-planlaeg-åbning-Linux-platform.pdf, id=410, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -3023,7 +3033,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 18.
 [28 <./CD-planlaeg-åbning-Linux-platform.pdf>]
-<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=425, 1074.0125pt x 923.45pt>
+<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=421, 1074.0125pt x 923.45pt>
 File: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf Graphic file (type pdf)
 
 <use APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>
@@ -3044,7 +3054,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
 [29 <./SD-planlaeg-åbning-Linux-platform.pdf>]
-<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=438, 2462.44969pt x 3404.218
+<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=434, 2462.44969pt x 3404.218
 12pt>
 File: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf Graphic file (type pdf)
  <use APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>
@@ -3084,7 +3094,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<Applikationsmodel_UC3/cd_UC3.pdf, id=479, 662.475pt x 642.4pt>
+<Applikationsmodel_UC3/cd_UC3.pdf, id=475, 662.475pt x 642.4pt>
 File: Applikationsmodel_UC3/cd_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/cd_UC3.pdf>
@@ -3092,7 +3102,7 @@ Package pdftex.def Info: Applikationsmodel_UC3/cd_UC3.pdf used on input line 7.
 
 (pdftex.def)             Requested size: 331.2399pt x -96.36191pt.
 
-<Applikationsmodel_UC3/SD_UC3.pdf, id=480, 1214.5375pt x 1003.75pt>
+<Applikationsmodel_UC3/SD_UC3.pdf, id=476, 1214.5375pt x 1003.75pt>
 File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/SD_UC3.pdf>
@@ -3105,7 +3115,7 @@ Overfull \hbox (293.47997pt too wide) in paragraph at lines 13--14
  []
 
 ) (./ApplikationsmodelPSoC5.tex
-<APPSoC/SD-Gaa-til-position-v1.pdf, id=481, 1653.92906pt x 2281.02188pt>
+<APPSoC/SD-Gaa-til-position-v1.pdf, id=477, 1653.92906pt x 2281.02188pt>
 File: APPSoC/SD-Gaa-til-position-v1.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Gaa-til-position-v1.pdf>
@@ -3134,7 +3144,7 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
 
 [33 <./APPSoC/SD-Gaa-til-position-v1.pdf>]
-<APPSoC/SD-Scan-x-aksen.pdf, id=518, 1653.92906pt x 1158.57843pt>
+<APPSoC/SD-Scan-x-aksen.pdf, id=514, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-x-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-x-aksen.pdf>
@@ -3145,7 +3155,7 @@ Overfull \hbox (52.411pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-<APPSoC/SD-Scan-y-aksen.pdf, id=520, 1653.92906pt x 1158.57843pt>
+<APPSoC/SD-Scan-y-aksen.pdf, id=516, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-y-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-y-aksen.pdf>
@@ -3165,7 +3175,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 19.
 [34 <./APPSoC/SD-Scan-x-aksen.pdf>]
-<APPSoC/SD-Scan-z-aksen.pdf, id=542, 1653.92906pt x 1158.57843pt>
+<APPSoC/SD-Scan-z-aksen.pdf, id=538, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-z-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-z-aksen.pdf>
@@ -3213,8 +3223,8 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
  ) 
 Here is how much of TeX's memory you used:
- 17485 strings out of 493013
- 289900 string characters out of 6136993
+ 17481 strings out of 493013
+ 289872 string characters out of 6136993
  415738 words of memory out of 5000000
  20661 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
@@ -3231,10 +3241,10 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (38 pages, 1630089 bytes).
+Output written on main.pdf (38 pages, 1626313 bytes).
 PDF statistics:
- 660 PDF objects out of 1000 (max. 8388607)
- 565 compressed objects within 6 object streams
- 158 named destinations out of 1000 (max. 500000)
+ 655 PDF objects out of 1000 (max. 8388607)
+ 560 compressed objects within 6 object streams
+ 154 named destinations out of 1000 (max. 500000)
  325 words of extra memory for PDF output out of 10000 (max. 10000000)
 
