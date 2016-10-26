@@ -19,7 +19,7 @@
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på Åbn nu på
-		brugergrænsefladen & Vinflasken åbnes af
+		brugergrænsefladen & Vinflasken låses og åbnes af
 		systemet, og bruger
 		meddeles via
 		brugergrænsefladen
@@ -42,15 +42,14 @@
 		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug \\
 		\hline
 	\end{tabular}
+	
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på Åbn nu på
 		brugergrænsefladen & System meddeler bruger
 		via brugergrænsefladen
 		at vinflasken er af
-		ugyldig type, og bruger
-		bedes fjerne genstand
-		fra systemet
+		ugyldig type.
  &  &  \\
 		\hline
 	\end{tabular}
@@ -99,10 +98,10 @@
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-		1 & Tryk på \emph{Planlæg åbning} på brugergrænsefladen & Undermenuen \emph{Planlæg åbning} vises på brugergrænsefladen &  &  \\
-		2 & Indstil på brugergrænsefladen klokkeslættet 4 timer og 30 minutter frem & Den indstillede tid vises til det valgte klokkeslæt &  &  \\
-		3 & Tryk på \emph{Bekræft} & Hovedmenuen vises og det valgte klokkeslæt vises i \emph{Aktuel info} på brugergrænsefladen &  &  \\
-		4 & Vent 4 timer og 30 minutter & System meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
+		1 & Tryk på planlæg åbning på brugergrænsefladen & Undermenuen planlæg åbning vises på brugergrænsefladen &  &  \\
+		2 & Indstil på brugergrænsefladen klokkeslættet 2 timer frem & Den indstillede tid vises til det valgte klokkeslæt &  &  \\
+		3 & Tryk på bekræft & Hovedmenuen vises og det valgte klokkeslæt vises i aktuel info på brugergrænsefladen &  &  \\
+		4 & Vent 2 timer & Vinflasken er åben og systemet meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
 		\hline
 	\end{tabular}
 \end{table}
@@ -118,12 +117,12 @@
 		\rowcolor{white}
 		\textbf{Scenarie} & Ext. 1: Bruger ønsker ikke at åbne vin \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
-		Bruger befinder sig i undermenuen \emph{Planlæg åbning} \\
+		UI viser planlæg åbning \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-		1 & Tryk \emph{Tilbage} på brugergrænsefladen & Hovedmenuen vises
+		1 & Tryk tilbage på brugergrænsefladen & Hovedmenuen vises
  &  &  \\
 		\hline
 	\end{tabular}
@@ -140,14 +139,14 @@
 		\rowcolor{white}
 		\textbf{Scenarie} & Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
-		Bruger befinder sig i undermenuen \emph{Planlæg åbning}. Bruger har valgt klokkeslæt til 10 minutter fra nuværende tidspunkt \\
+		Bruger befinder sig i undermenuen planlæg åbning. Bruger har valgt klokkeslæt til 10 minutter fra nuværende tidspunkt \\
 		\hline
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-		1 & Tryk \emph{Bekræft} på brugergrænsefladen & System meddeler bruger om at den indstillede tid ikke er tilstrækkelig til at vinen er drikkeklar, og beder bruger genbekræfte valget.
+		1 & Tryk bekræft på brugergrænsefladen & System meddeler bruger om at den indstillede tid ikke er tilstrækkelig til at vinen er drikkeklar, og beder bruger genbekræfte valget.
  &  &  \\
- 		2 & Tryk \emph{Annuller} & Undermenuen \emph{Planlæg åbning} vises\\
+ 		2 & Tryk annuller & Undermenuen planlæg åbning vises\\
 		\hline
 	\end{tabular}
 \end{table}
@@ -170,9 +169,9 @@ Accepttests for Ext.3 og 4 er ikke medtaget her fordi de testes under accepttest
 	\end{tabular}
 	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
-		1 & Tryk \emph{STOP!} på brugergrænsefladen & System beder bruger via brugergrænsefladen bekræfte valg
+		1 & Tryk stop på brugergrænsefladen & System beder bruger via brugergrænsefladen bekræfte valg
  &  &  \\
- 		2 & Tryk \emph{Bekræft} & Hovedmenuen vises og \emph{Aktuel info} er tom \\
+ 		2 & Tryk bekræft & Hovedmenuen vises\\
 		\hline
 	\end{tabular}
 \end{table}
