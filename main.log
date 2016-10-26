@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  26 OCT 2016 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  26 OCT 2016 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1190,95 +1190,88 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- (./AktKontekst.tex
+
+(./usecasebeskrivelse.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+ <usecasediagram.pdf, id=143, 642.4pt x 511.9125pt>
+File: usecasediagram.pdf Graphic file (type pdf)
 
-<aktkontekstdiagram.pdf, id=143, 471.7625pt x 511.9125pt>
-File: aktkontekstdiagram.pdf Graphic file (type pdf)
-
-<use aktkontekstdiagram.pdf>
-Package pdftex.def Info: aktkontekstdiagram.pdf used on input line 6.
-(pdftex.def)             Requested size: 235.88066pt x 255.95563pt.
+<use usecasediagram.pdf>
+Package pdftex.def Info: usecasediagram.pdf used on input line 7.
+(pdftex.def)             Requested size: 321.19922pt x 255.95563pt.
 ) (./Use-Cases.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 5.
+ [3
 
-<usecasediagram.pdf, id=144, 471.7625pt x 481.8pt>
-File: usecasediagram.pdf Graphic file (type pdf)
- <use usecasediagram.pdf>
-Package pdftex.def Info: usecasediagram.pdf used on input line 8.
-(pdftex.def)             Requested size: 235.88066pt x 240.8994pt.
+ <./usecasediagram.pdf>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
-
-[3
-
- <./aktkontekstdiagram.pdf>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
- [4 <./usecasediagram.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
+(babel)             in language  on input line 5.
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
 
 
-Overfull \hbox (30.49487pt too wide) in paragraph at lines 35--35
+Overfull \hbox (30.49487pt too wide) in paragraph at lines 28--28
 []|\T1/cmr/bx/n/10.95 Udvidelser/Undtagelser| 
  []
 
 
-Overfull \hbox (55.0pt too wide) in paragraph at lines 15--47
+Overfull \hbox (55.0pt too wide) in paragraph at lines 8--40
 [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 42.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
  []
 
 
-Overfull \hbox (30.49487pt too wide) in paragraph at lines 71--71
+Overfull \hbox (30.49487pt too wide) in paragraph at lines 64--64
 []|\T1/cmr/bx/n/10.95 Udvidelser/Undtagelser| 
  []
 
 
-Overfull \hbox (55.0pt too wide) in alignment at lines 52--94
+Overfull \hbox (55.0pt too wide) in alignment at lines 45--87
  [] [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 87.
 [6] (./UC3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\T1/cmr/bx/n/10.95 Antal Sam-ti-di-ge
@@ -2758,19 +2751,23 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<SSDUC1.pdf, id=271, 722.7pt x 602.25pt>
+<SSDUC1.pdf, id=264, 813.0375pt x 622.325pt>
 File: SSDUC1.pdf Graphic file (type pdf)
  <use SSDUC1.pdf>
 Package pdftex.def Info: SSDUC1.pdf used on input line 7.
-(pdftex.def)             Requested size: 361.3491pt x 301.12425pt.
+(pdftex.def)             Requested size: 406.51776pt x 311.16173pt.
 
-<SSDUC2.pdf, id=272, 833.1125pt x 813.0375pt>
+Overfull \hbox (37.51776pt too wide) in paragraph at lines 7--8
+ [][] 
+ []
+
+<SSDUC2.pdf, id=265, 1084.05pt x 813.0375pt>
 File: SSDUC2.pdf Graphic file (type pdf)
  <use SSDUC2.pdf>
 Package pdftex.def Info: SSDUC2.pdf used on input line 16.
-(pdftex.def)             Requested size: 416.55524pt x 406.51776pt.
+(pdftex.def)             Requested size: 542.02368pt x 406.51776pt.
 
-Overfull \hbox (47.55524pt too wide) in paragraph at lines 16--17
+Overfull \hbox (173.02368pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
@@ -2804,88 +2801,88 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 3.
 
-<blockdefinitiondiagram.pdf, id=296, 1375.1375pt x 803.0pt>
+<blockdefinitiondiagram.pdf, id=289, 1375.1375pt x 803.0pt>
 File: blockdefinitiondiagram.pdf Graphic file (type pdf)
 
 <use blockdefinitiondiagram.pdf>
-Package pdftex.def Info: blockdefinitiondiagram.pdf used on input line 7.
+Package pdftex.def Info: blockdefinitiondiagram.pdf used on input line 8.
 (pdftex.def)             Requested size: 412.54443pt x 240.90186pt.
 
-Overfull \hbox (43.54443pt too wide) in paragraph at lines 7--8
+Overfull \hbox (43.54443pt too wide) in paragraph at lines 8--9
  [][] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 12.
 [20
 
- <./blockdefinitiondiagram.pdf>]
+]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 40.
- [21]
+(babel)             in language  on input line 25.
+ [21 <./blockdefinitiondiagram.pdf>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\T1/cmr/bx/n/10.95 Signal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/cmr/m/n/10.95 MISO, MO-SI, SS,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 Mo-torX-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 Mo-torY-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 Mo-torZ-Di-rection,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/m/n/10.95 Mo-torS-Di-rection,
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 55--55
+Underfull \hbox (badness 2080) in paragraph at lines 56--56
 []|\T1/cmr/m/n/10.95 Range, Sen-sor1, Sen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\T1/cmr/m/n/10.95 Step, Mo-torX-step,
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 59--59
+Underfull \hbox (badness 7704) in paragraph at lines 60--60
 \T1/cmr/m/n/10.95 Mo-torY-step, Mo-torZ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 \T1/cmr/m/n/10.95 step, Mo-torS-step,
  []
 
@@ -2903,6 +2900,15 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [23]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
  (./CPUmatrix.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -2914,7 +2920,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<CD-åbn-vinflaske-Linux-platform.pdf, id=334, 963.6pt x 592.2125pt>
+<CD-åbn-vinflaske-Linux-platform.pdf, id=332, 963.6pt x 592.2125pt>
 File: CD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-åbn-vinflaske-Linux-platform.pdf>
@@ -2929,10 +2935,10 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 9.
- [23
+ [24
 
 ]
-<SD-åbn-vinflaske-Linux-platform.pdf, id=342, 1234.6125pt x 823.075pt>
+<SD-åbn-vinflaske-Linux-platform.pdf, id=339, 1234.6125pt x 823.075pt>
 File: SD-åbn-vinflaske-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-åbn-vinflaske-Linux-platform.pdf>
@@ -2947,8 +2953,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 15.
- [24 <./CD-åbn-vinflaske-Linux-platform.pdf>] <APPSoC/UC1-CD-Aaben-nu-PSoC.pdf,
- id=354, 1074.0125pt x 923.45pt>
+ [25 <./CD-åbn-vinflaske-Linux-platform.pdf>] <APPSoC/UC1-CD-Aaben-nu-PSoC.pdf,
+ id=351, 1074.0125pt x 923.45pt>
 File: APPSoC/UC1-CD-Aaben-nu-PSoC.pdf Graphic file (type pdf)
 
 <use APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>
@@ -2968,8 +2974,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
-[25 <./SD-åbn-vinflaske-Linux-platform.pdf>]
-<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=367, 2462.44969pt x 2842.62pt>
+[26 <./SD-åbn-vinflaske-Linux-platform.pdf>]
+<APPSoC/UC1-Aaben-nu-v1-simplified.pdf, id=364, 2462.44969pt x 2842.62pt>
 File: APPSoC/UC1-Aaben-nu-v1-simplified.pdf Graphic file (type pdf)
 
 <use APPSoC/UC1-Aaben-nu-v1-simplified.pdf>
@@ -2990,13 +2996,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
- [26 <./APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>] (./ApplikationsmodelUC2.tex
+ [27 <./APPSoC/UC1-CD-Aaben-nu-PSoC.pdf>] (./ApplikationsmodelUC2.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<CD-planlaeg-åbning-Linux-platform.pdf, id=380, 963.6pt x 592.2125pt>
+<CD-planlaeg-åbning-Linux-platform.pdf, id=377, 963.6pt x 592.2125pt>
 File: CD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use CD-planlaeg-åbning-Linux-platform.pdf>
@@ -3011,8 +3017,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
- [27 <./APPSoC/UC1-Aaben-nu-v1-simplified.pdf>]
-<SD-planlaeg-åbning-Linux-platform.pdf, id=410, 963.6pt x 1324.95pt>
+ [28 <./APPSoC/UC1-Aaben-nu-v1-simplified.pdf>]
+<SD-planlaeg-åbning-Linux-platform.pdf, id=407, 963.6pt x 1324.95pt>
 File: SD-planlaeg-åbning-Linux-platform.pdf Graphic file (type pdf)
 
 <use SD-planlaeg-åbning-Linux-platform.pdf>
@@ -3032,8 +3038,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 18.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 18.
-[28 <./CD-planlaeg-åbning-Linux-platform.pdf>]
-<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=421, 1074.0125pt x 923.45pt>
+[29 <./CD-planlaeg-åbning-Linux-platform.pdf>]
+<APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf, id=419, 1074.0125pt x 923.45pt>
 File: APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf Graphic file (type pdf)
 
 <use APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>
@@ -3053,8 +3059,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
-[29 <./SD-planlaeg-åbning-Linux-platform.pdf>]
-<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=434, 2462.44969pt x 3404.218
+[30 <./SD-planlaeg-åbning-Linux-platform.pdf>]
+<APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf, id=431, 2462.44969pt x 3404.218
 12pt>
 File: APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf Graphic file (type pdf)
  <use APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>
@@ -3075,7 +3081,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 12.
- [30 <./APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>]
+ [31 <./APPSoC/UC2-CD-planlaeg-aabning-PSoC.pdf>]
 Overfull \vbox (37.8612pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining danish shorthand "|
@@ -3087,14 +3093,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 12.
 
-[31 <./APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>]
+[32 <./APPSoC/UC2-planlaeg-aabning-v1-simplified.pdf>]
 (./ApplikationsmodelUC3.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<Applikationsmodel_UC3/cd_UC3.pdf, id=475, 662.475pt x 642.4pt>
+<Applikationsmodel_UC3/cd_UC3.pdf, id=472, 662.475pt x 642.4pt>
 File: Applikationsmodel_UC3/cd_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/cd_UC3.pdf>
@@ -3102,7 +3108,7 @@ Package pdftex.def Info: Applikationsmodel_UC3/cd_UC3.pdf used on input line 7.
 
 (pdftex.def)             Requested size: 331.2399pt x -96.36191pt.
 
-<Applikationsmodel_UC3/SD_UC3.pdf, id=476, 1214.5375pt x 1003.75pt>
+<Applikationsmodel_UC3/SD_UC3.pdf, id=473, 1214.5375pt x 1003.75pt>
 File: Applikationsmodel_UC3/SD_UC3.pdf Graphic file (type pdf)
 
 <use Applikationsmodel_UC3/SD_UC3.pdf>
@@ -3115,7 +3121,7 @@ Overfull \hbox (293.47997pt too wide) in paragraph at lines 13--14
  []
 
 ) (./ApplikationsmodelPSoC5.tex
-<APPSoC/SD-Gaa-til-position-v1.pdf, id=477, 1653.92906pt x 2281.02188pt>
+<APPSoC/SD-Gaa-til-position-v1.pdf, id=474, 1653.92906pt x 2281.02188pt>
 File: APPSoC/SD-Gaa-til-position-v1.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Gaa-til-position-v1.pdf>
@@ -3130,7 +3136,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
- [32 <./Applikationsmodel_UC3/cd_UC3.pdf> <./Applikationsmodel_UC3/SD_UC3.pdf>]
+ [33 <./Applikationsmodel_UC3/cd_UC3.pdf> <./Applikationsmodel_UC3/SD_UC3.pdf>]
 
 Overfull \vbox (130.17964pt too high) has occurred while \output is active []
 
@@ -3143,8 +3149,8 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
 
-[33 <./APPSoC/SD-Gaa-til-position-v1.pdf>]
-<APPSoC/SD-Scan-x-aksen.pdf, id=514, 1653.92906pt x 1158.57843pt>
+[34 <./APPSoC/SD-Gaa-til-position-v1.pdf>]
+<APPSoC/SD-Scan-x-aksen.pdf, id=511, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-x-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-x-aksen.pdf>
@@ -3155,7 +3161,7 @@ Overfull \hbox (52.411pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-<APPSoC/SD-Scan-y-aksen.pdf, id=516, 1653.92906pt x 1158.57843pt>
+<APPSoC/SD-Scan-y-aksen.pdf, id=513, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-y-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-y-aksen.pdf>
@@ -3174,8 +3180,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 19.
-[34 <./APPSoC/SD-Scan-x-aksen.pdf>]
-<APPSoC/SD-Scan-z-aksen.pdf, id=538, 1653.92906pt x 1158.57843pt>
+[35 <./APPSoC/SD-Scan-x-aksen.pdf>]
+<APPSoC/SD-Scan-z-aksen.pdf, id=536, 1653.92906pt x 1158.57843pt>
 File: APPSoC/SD-Scan-z-aksen.pdf Graphic file (type pdf)
 
 <use APPSoC/SD-Scan-z-aksen.pdf>
@@ -3195,7 +3201,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 21.
- [35 <./APPSoC/SD-Scan-y-aksen.pdf>]
+ [36 <./APPSoC/SD-Scan-y-aksen.pdf>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
@@ -3204,7 +3210,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 21.
- [36 <./APPSoC/SD-Scan-z-aksen.pdf>]
+ [37 <./APPSoC/SD-Scan-z-aksen.pdf>]
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -3215,7 +3221,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A5B12C0728F1E0953AE8C4C4D42A3DF6;1352.
+(rerunfilecheck)             Checksum: D6740D5FB535ACF4EFCE03C2C57F97C4;1350.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3223,10 +3229,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
  ) 
 Here is how much of TeX's memory you used:
- 17481 strings out of 493013
- 289872 string characters out of 6136993
- 415738 words of memory out of 5000000
- 20661 multiletter control sequences out of 15000+600000
+ 17474 strings out of 493013
+ 289749 string characters out of 6136993
+ 415697 words of memory out of 5000000
+ 20656 multiletter control sequences out of 15000+600000
  15866 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,44p,10461b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3241,10 +3247,10 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texl
 ive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (38 pages, 1626313 bytes).
+Output written on main.pdf (39 pages, 1626372 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 560 compressed objects within 6 object streams
- 154 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 652 PDF objects out of 1000 (max. 8388607)
+ 557 compressed objects within 6 object streams
+ 153 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
