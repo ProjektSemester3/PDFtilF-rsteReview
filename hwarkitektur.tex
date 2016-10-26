@@ -1,6 +1,7 @@
 \chapter{Hardware Arkitektur}
 
 \section{Block Definition Diagram}
+Vores system kaldet WinePrep, består af en embedded Linux-platform (Devkit-8000), hvor der er mulighed for bruger-input. Linux-platformen er forbundet til en PSoC5 (CY8CKIT-059) via SPI. PSoC platformen anvendes til at styrer positionerings- og åbnings-mekanismerne, som hver består af nogle aktuatorer og sensorer. Positioneringsmekanismen besår af de 3 akser (X,Y,Z) og motorer til at styrer disse, åbningsmekanismen er så fastmonteret herpå, således denne kan positioneres i forhold til vinflasken, så aktuatorer på åbningsmekanismen kan anvendes til at trække proppen.
 
 \begin{figure}[H]
 	\centering
