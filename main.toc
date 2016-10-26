@@ -15,7 +15,7 @@
 \contentsline {subsection}{Use-case 3: Indstil tid}{9}
 \contentsline {section}{\numberline {2.3}Ikke-funktionelle krav}{10}
 \contentsline {subsection}{Brugervenlighed}{10}
-\contentsline {subsection}{Ydelse}{10}
+\contentsline {subsection}{Ydeevne}{10}
 \contentsline {subsection}{Vedligeholdelse}{10}
 \contentsline {chapter}{\chapternumberline {3}Accepttest Specifikation}{11}
 \contentsline {section}{\numberline {3.1}Test af Use-case 1}{11}
