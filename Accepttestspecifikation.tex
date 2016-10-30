@@ -2,12 +2,12 @@
 \section{Test af Use-case 1}
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC1 Hovedscenarie}
+	\caption{Accepttestspecifikation \nameref{UC1}: Hovedscenarie}
 	\label{ATUC1:Hovedscenarie}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+	\begin{tabularx}{360pt}{ TX  TX }\hline
 		\rowcolor{white}	
-		\textbf{Use-case under test} & UC 1: Åbn Vinflaske \\
+		\textbf{Use-case under test} & \nameref{UC1} \\
 		\rowcolor{lightgray}
 		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{white}	
 		\textbf{Prækondition} &
@@ -15,8 +15,8 @@
 		er vinflasken uåbnet og forseglingen er fjernet
  \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{  p{26pt} TX  TX TX  TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på Åbn nu på
 		brugergrænsefladen & Vinflasken låses og åbnes af
@@ -25,25 +25,25 @@
 		brugergrænsefladen
 		om, at vinen er åbnet &  &  \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC 1 Ext. 1: System registrerer ugyldig type af vinflaske}
+	\caption{Accepttestspecifikation \nameref{UC1} Ext. 1: System registrerer ugyldig type af vinflaske}
 	\label{ATUC1:Ext1}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+	\begin{tabularx}{360pt}{ TX TX }\hline
 		\rowcolor{lightgray}	
-		\textbf{Use-case under test} & UC 1: Åbn Vinflaske \\
+		\textbf{Use-case under test} & \nameref{UC1} \\
 		\rowcolor{white}
 		\textbf{Scenarie} & Ext. 1: System registrerer ugyldig type af vinflaske \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
 		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 	
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\begin{tabularx}{360pt}{ p{26pt} TX  TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på Åbn nu på
 		brugergrænsefladen & System meddeler bruger
@@ -52,24 +52,24 @@
 		ugyldig type.
  &  &  \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC 1 Ext. 2: System kan ikke registrere vinflaske}
+	\caption{Accepttestspecifikation \nameref{UC1}: Ext. 2: System kan ikke registrere vinflaske}
 	\label{ATUC1:Ext2}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+	\begin{tabularx}{360pt}{ TX  TX }\hline
 		\rowcolor{white}	
-		\textbf{Use-case under test} & U1: Åbn Vinflaske \\
+		\textbf{Use-case under test} & \nameref{UC1} \\
 		\rowcolor{lightgray}
 		\textbf{Scenarie} & Ext. 2: System kan ikke registrere vinflaske \\\rowcolor{white}	
 		\textbf{Prækondition} &
 		Systemet er klar til brug \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{  p{26pt} TX  TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på Åbn nu på
 		brugergrænsefladen & System meddeler bruger
@@ -77,103 +77,103 @@
 		at ingen vinflaske kan
 		registreres &  &  \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \section{Test af use-case 2}
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC 2 Hovedscenarie}
+	\caption{Accepttestspecifikation \nameref{UC2} Hovedscenarie}
 	\label{ATUC2:Hovedscenarie}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+	\begin{tabularx}{360pt}{ TX TX }\hline
 		\rowcolor{lightgray}	
-		\textbf{Use-case under test} & UC2: Planlæg Åbning \\
+		\textbf{Use-case under test} & \nameref{UC2} \\
 		\rowcolor{white}
 		\textbf{Scenarie} & Hovedscenarie \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
 		En gyldig type vinflaske er korrekt anbragt i maskinen og systemet er klar til brug. Desuden er vinflasken uåbnet og forseglingen er fjernet \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{ p{26pt} TX TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk på planlæg åbning på brugergrænsefladen & Undermenuen planlæg åbning vises på brugergrænsefladen &  &  \\
 		2 & Indstil på brugergrænsefladen klokkeslættet 2 timer frem & Den indstillede tid vises til det valgte klokkeslæt &  &  \\
 		3 & Tryk på bekræft & Hovedmenuen vises og det valgte klokkeslæt vises i aktuel info på brugergrænsefladen &  &  \\
 		4 & Vent 2 timer & Vinflasken er åben og systemet meddeler bruger via brugergrænsefladen om at vinen er drikkeklar &  &  \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC2 Ext. 1: Bruger ønsker ikke at åbne vin}
+	\caption{Accepttestspecifikation \nameref{UC2} Ext. 1: Bruger ønsker ikke at åbne vin}
 	\label{ATUC2:Ext1}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
+	\begin{tabularx}{360pt}{ TX TX }\hline
 		\rowcolor{lightgray}	
-		\textbf{Use-case under test} & UC 2: Planlæg Åbning \\
+		\textbf{Use-case under test} & \nameref{UC2} \\
 		\rowcolor{white}
 		\textbf{Scenarie} & Ext. 1: Bruger ønsker ikke at åbne vin \\\rowcolor{lightgray}	
 		\textbf{Prækondition} &
 		UI viser planlæg åbning \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{ p{26pt} TX TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk tilbage på brugergrænsefladen & Hovedmenuen vises
  &  &  \\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC 2 Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt}
+	\caption{Accepttestspecifikation \nameref{UC2} Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt}
 	\label{ATUC2:Ext2}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
-		\rowcolor{lightgray}	
-		\textbf{Use-case under test} & U2: Planlæg Åbning \\
-		\rowcolor{white}
-		\textbf{Scenarie} & Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt \\\rowcolor{lightgray}	
+	\begin{tabularx}{360pt}{ TX TX }\hline
+		\rowcolor{white}	
+		\textbf{Use-case under test} & \nameref{UC2} \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Ext. 2: Vinen kan ikke iltes korrekt til det valgte tidspunkt \\\rowcolor{white}	
 		\textbf{Prækondition} &
 		Bruger befinder sig i undermenuen planlæg åbning. Bruger har valgt klokkeslæt til 10 minutter fra nuværende tidspunkt \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{  p{26pt} TX TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk bekræft på brugergrænsefladen & System meddeler bruger om at den indstillede tid ikke er tilstrækkelig til at vinen er drikkeklar, og beder bruger genbekræfte valget.
  &  &  \\
- 		2 & Tryk annuller & Undermenuen planlæg åbning vises\\
+ 		2 & Tryk annuller & Undermenuen planlæg åbning vises & &\\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
-Accepttests for Ext.3 og 4 er ikke medtaget her fordi de testes under accepttest for UC1: Åbn Vinflaske.
+Accepttests for Ext.3 og 4 er ikke medtaget her fordi de testes under accepttest for \nameref{UC1}.
 
 \begin{table}[H]
 	\centering
-	\caption{Accepttestspecifikation UC2 Ext. 5: Bruger annullerer planlagt åbning af vin}
+	\caption{Accepttestspecifikation \nameref{UC2} Ext. 5: Bruger annullerer planlagt åbning af vin}
 	\label{ATUC2:Ext2}
 	%Se Tabel \ref{ATUC2:Hovedscenarie} på side \pageref{ATUC2:Hovedscenarie}
-	\begin{tabular}{ p{80pt}  p{320pt} }\hline
-		\rowcolor{lightgray}	
-		\textbf{Use-case under test} & UC 2: Planlæg Åbning \\
-		\rowcolor{white}
-		\textbf{Scenarie} & Ext. 5: Bruger annullerer planlagt åbning af vin \\\rowcolor{lightgray}	
+	\begin{tabularx}{360pt}{ TX  TX }\hline
+		\rowcolor{white}	
+		\textbf{Use-case under test} & \nameref{UC2} \\
+		\rowcolor{lightgray}
+		\textbf{Scenarie} & Ext. 5: Bruger annullerer planlagt åbning af vin \\\rowcolor{white}	
 		\textbf{Prækondition} &
 		Bruger har valgt klokkeslæt til 4 timer og 30 minutter fra nuværende tidspunkt og har bekræftet sig valg. Desuden er en gyldig type vinflaske korrekt placeret i maskinen \\
 		\hline
-	\end{tabular}
-	\begin{tabular}{  p{26pt} p{100pt}  p{101pt} | p{67pt} | p{68pt}}
+	\end{tabularx}
+	\begin{tabularx}{360pt}{  p{26pt} TX TX TX TX}
 		\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation/resultat} & \textbf{Faktisk observation/resultat} & \textbf{Vurdering (OK/FAIL)}\\
 		1 & Tryk stop på brugergrænsefladen & System beder bruger via brugergrænsefladen bekræfte valg
  &  &  \\
- 		2 & Tryk bekræft & Hovedmenuen vises\\
+ 		2 & Tryk bekræft & Hovedmenuen vises & &\\
 		\hline
-	\end{tabular}
+	\end{tabularx}
 \end{table}
 
 \input{Accepttest_UC3}

@@ -5,7 +5,7 @@ Vores system kaldet WinePrep, består af en embedded Linux-platform (Devkit-8000
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.3]{blockdefinitiondiagram}
+	\includegraphics[scale=0.27]{blockdefinitiondiagram}
 	\caption{BDD for WinePrep}
 	\label{BDD}
 \end{figure}
@@ -43,14 +43,14 @@ Sensor typer og antal ligger kun delvist fast. Der vil være 2 afstandssensorer 
 
 \begin{figure}[H]
 	\centering
-%	\includegraphics[scale=0.3]{IBDiagram}
+	\includegraphics[scale=0.25]{IBDopdateret}
 	\caption{IBD for WinePrep}
 	\label{IBD}
 \end{figure}
 
 \subsection{Signal Beskrivelser}
 
-\begin{tabular}{>{\bfseries}p{50pt}  p{110pt}  p{170pt}}
+\begin{tabularx}{360pt}{>{\bfseries}p{50pt}  TX TX}
 	Signal Type & \textbf{Porte} & \textbf{Beskrivelse} \\
 	Digital & MISO, MOSI, SS, MotorXDirection, MotorYDirection, MotorZDirection, MotorSDirection, MotorPDirection & 0-5V firkant signal \\
 	Analog & Range, Sensor1, Sensor2 & Analog Spænding mellem 0-5V \\
@@ -59,4 +59,4 @@ Sensor typer og antal ligger kun delvist fast. Der vil være 2 afstandssensorer 
 	Light & Touchscreen & Lys i varierende farver i det synlige spektrum \\
 	PWM & Step, MotorXstep, MotorYstep, MotorZstep, MotorSstep, MotorPstep & 0-5V firkant med varierende dutycycle. \\
 	SPI & SPI & Serial Peripheral Interface Bus industri standard \\
-\end{tabular}
+\end{tabularx}
