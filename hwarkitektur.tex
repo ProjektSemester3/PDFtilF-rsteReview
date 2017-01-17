@@ -62,15 +62,22 @@ Sensor typer og antal ligger kun delvist fast. Der vil være 2 afstandssensorer 
 	\label{IBD_Aab}
 \end{figure}
 
+PSoC'ene i figur \ref{IBD_Pos} og \ref{IBD_Aab} er medtaget heri for at simplificere koblingen til Positionerings og Åbningsmekanismens komponenter. Egentligt burde disse have stået udenfor i figur \ref{IBD_Win}.
+
 \subsection{Signal Beskrivelser}
 
 \begin{tabularx}{360pt}{>{\bfseries}p{50pt}  TX TX}
 	Signal Type & \textbf{Porte} & \textbf{Beskrivelse} \\
-	Digital & MISO, MOSI, SS, MotorXDirection, MotorYDirection, MotorZDirection, MotorSDirection, MotorPDirection & 0-5V firkant signal \\
-	Analog & Range, Sensor1, Sensor2 & Analog Spænding mellem 0-5V \\
-	Clock & SCLK & Konstant firkantsignal på 0-5V med 50\% dutycycle og fast frekvens \\
-	Touch & Touchscreen & kraftpåvirkning af skærmen \\
-	Light & Touchscreen & Lys i varierende farver i det synlige spektrum \\
-	PWM & Step, MotorXstep, MotorYstep, MotorZstep, MotorSstep, MotorPstep & 0-5V firkant med varierende dutycycle. \\
-	SPI & SPI & Serial Peripheral Interface Bus industri standard \\
+	Motor & motorX, motorY, motorZ1, motorZ2, motorS, motorP & 0-5V firkant signal \\
+	Sensor & sensorX, sensorY, range & Analog spænding mellem 0-5V \\
+	Button & buttonX, buttonY, buttonZ, buttonP & Digitalt signal mellem 0-5V \\
+	Touch & touch & Kraftpåvirkning på skærmen \\
+	5VDC & 5V & Analog spænding mellem 0-5V \\
+	10VDC & 10V & DC signal på 10V \\
+	230VAC & 230V & Analog spænding med RMS på 230V \\
+	Light & screen & Lys i varierende farver i det synlige spektrum \\
+	Lead & step & 0-10V firkantsignal med varierende dutycycle. \\
+	Force & force & Motorkraft \\
+	Button & force & Trykkraft \\
+	SPI & master(1), slave, master(2), DevKit8000 & Serial Peripheral Interface Bus industri standard; master(1) og slave er digitale signaler mellem 0-5V; master(2) og DevKit8000 er digitale signaler mellem 0-3.3V \\
 \end{tabularx}
