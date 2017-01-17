@@ -40,15 +40,15 @@
 \contentsline {paragraph}{Motor}{26}{section*.24}
 \contentsline {subsection}{Ting der f\IeC {\o }rst bliver fast besluttet p\IeC {\r a} senere iterationer/sprints}{26}{section*.25}
 \contentsline {section}{\numberline {5.2}Internal Block Diagram}{27}{section.5.2}
-\contentsline {subsection}{Signal Beskrivelser}{28}{section*.26}
-\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{29}{chapter.6}
-\contentsline {section}{\numberline {6.1}CPU matrix}{29}{section.6.1}
-\contentsline {section}{\numberline {6.2}UC1: \IeC {\r A}bn vinflaske}{30}{section.6.2}
-\contentsline {subsection}{Linux Platform / DevKit8000}{30}{section*.27}
-\contentsline {subsection}{PSoC 5}{32}{section*.28}
-\contentsline {section}{\numberline {6.3}UC2: Planl\IeC {\ae }g \IeC {\r a}bning}{34}{section.6.3}
-\contentsline {subsection}{Linux Platform / DevKit8000}{34}{section*.29}
-\contentsline {subsection}{PSoC 5}{36}{section*.30}
-\contentsline {section}{\numberline {6.4}UC3: Indstil tid}{38}{section.6.4}
-\contentsline {subsection}{Linux Platform / DevKit8000}{38}{section*.31}
-\contentsline {subsection}{Sekvensdiagrammer der anvendes i applikationsmodel for PSoC 5}{40}{section*.32}
+\contentsline {subsection}{Signal Beskrivelser}{29}{section*.26}
+\contentsline {chapter}{\chapternumberline {6}Software Arkitektur}{30}{chapter.6}
+\contentsline {section}{\numberline {6.1}CPU matrix}{30}{section.6.1}
+\contentsline {section}{\numberline {6.2}UC1: \IeC {\r A}bn vinflaske}{31}{section.6.2}
+\contentsline {subsection}{Linux Platform / DevKit8000}{31}{section*.27}
+\contentsline {subsection}{PSoC 5}{33}{section*.28}
+\contentsline {section}{\numberline {6.3}UC2: Planl\IeC {\ae }g \IeC {\r a}bning}{35}{section.6.3}
+\contentsline {subsection}{Linux Platform / DevKit8000}{35}{section*.29}
+\contentsline {subsection}{PSoC 5}{37}{section*.30}
+\contentsline {section}{\numberline {6.4}UC3: Indstil tid}{39}{section.6.4}
+\contentsline {subsection}{Linux Platform / DevKit8000}{39}{section*.31}
+\contentsline {subsection}{Sekvensdiagrammer der anvendes i applikationsmodel for PSoC 5}{41}{section*.32}
